@@ -50,8 +50,9 @@ export default function Home() {
             </tr>
           </thead>
           <tbody>
-          {data.map(e => <><tr><td>{ e.rankE.map(e => e['Item'])}</td></tr> <tr><td>{ e.rankE.map(e => e['Habilidade'])}</td></tr></> )}
-
+            <tr>
+          {data.map(e => <><td>{ e.rankE.map(e => e['Item'])}</td><td>{ e.rankE.map(e => e['Habilidade'])}</td></> )}
+          </tr>
           </tbody>
         </table>
 
