@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
+import data from '../json/estilista/betterEstilista.json'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -39,25 +40,22 @@ export default function Home() {
           </div>
         </div>
 
-        <div className={styles.center}>
-          <Image
-            className={styles.logo}
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
-            priority
-          />
-          <div className={styles.thirteen}>
-            <Image
-              src="/thirteen.svg"
-              alt="13"
-              width={40}
-              height={31}
-              priority
-            />
-          </div>
-        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Skill</th>
+              <th>Tempo</th>
+              <th>Items</th>
+            </tr>
+          </thead>
+          <tbody>
+          {data.map(e => <><tr><td>{ e.rankE.map(e => e['Item'])}</td></tr> <tr><td>{ e.rankE.map(e => e['Habilidade'])}</td></tr></> )}
+
+          </tbody>
+        </table>
+
+
 
         <div className={styles.grid}>
           <a
@@ -67,7 +65,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              Estilista <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Find in-depth information about Next.js features and&nbsp;API.
@@ -81,7 +79,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Learn <span>-&gt;</span>
+              Engenheiro <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Learn about Next.js in an interactive course with&nbsp;quizzes!
@@ -95,7 +93,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Templates <span>-&gt;</span>
+              Professor <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Discover and deploy boilerplate example Next.js&nbsp;projects.
@@ -109,7 +107,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Deploy <span>-&gt;</span>
+              Aventureiro <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Instantly deploy your Next.js site to a shareable URL
