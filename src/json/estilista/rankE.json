@@ -1,0 +1,1033 @@
+[{
+        "Item": "Diamond Dust (20x)",
+        "Habilidade": "Skill 2",
+        "Tempo de espera": "5 Segundos",
+        "Materiais": [{
+            "quantity": 1,
+            "name": " Diamond"
+        }]
+    },
+    {
+        "Item": "Cloth",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "5 Segundos",
+        "Materiais": [{
+            "quantity": 1,
+            "name": "Wool Ball"
+        }]
+    },
+    {
+        "Item": "XP Plank",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "5 Minutos",
+        "Materiais": [{
+                "quantity": 50,
+                "name": "Earth Ball"
+            },
+            {
+                "quantity": 25,
+                "name": " Log"
+            }
+        ]
+    },
+    {
+        "Item": "Wooden Chair (5x)",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 10,
+                "name": " Straw"
+            },
+            {
+                "quantity": 5,
+                "name": " Log"
+            }
+        ]
+    },
+    {
+        "Item": "Oak Table (2x)",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "5 Minutos",
+        "Materiais": [{
+                "quantity": 12,
+                "name": " Straw"
+            },
+            {
+                "quantity": 4,
+                "name": " Log"
+            }
+        ]
+    },
+    {
+        "Item": "Locker",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "4 Minutos",
+        "Materiais": [{
+                "quantity": 14,
+                "name": " Straw"
+            },
+            {
+                "quantity": 5,
+                "name": " Log"
+            }
+        ]
+    },
+    {
+        "Item": "Dresser (2x)",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "10 Minutos",
+        "Materiais": [{
+                "quantity": 12,
+                "name": " Straw"
+            },
+            {
+                "quantity": 4,
+                "name": " Log"
+            }
+        ]
+    },
+    {
+        "Item": "Hippie Male Outfit",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "2 Horas",
+        "Materiais": [{
+                "quantity": 6,
+                "name": " Cloth"
+            },
+            {
+                "quantity": 5,
+                "name": "Squirrel Tail"
+            },
+            {
+                "quantity": 10,
+                "name": "Red Wing"
+            },
+            {
+                "quantity": 8,
+                "name": " Comb"
+            },
+            {
+                "quantity": 1000,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Hippie Female Outfit",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "2 Horas",
+        "Materiais": [{
+                "quantity": 6,
+                "name": " Cloth"
+            },
+            {
+                "quantity": 5,
+                "name": "Squirrel Tail"
+            },
+            {
+                "quantity": 10,
+                "name": "Blue Vines"
+            },
+            {
+                "quantity": 7,
+                "name": "Strange Flower"
+            },
+            {
+                "quantity": 1000,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Cook Male Outfit",
+        "Habilidade": "Skill 17",
+        "Tempo de espera": "2 Horas",
+        "Materiais": [{
+                "quantity": 3,
+                "name": " Pizza"
+            },
+            {
+                "quantity": 80,
+                "name": " Sushi"
+            },
+            {
+                "quantity": 1,
+                "name": "Fake Fork"
+            },
+            {
+                "quantity": 3,
+                "name": "Bear Paw"
+            },
+            {
+                "quantity": 1000,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "School Girl Outfit",
+        "Habilidade": "Skill 17",
+        "Tempo de espera": "2 Horas",
+        "Materiais": [{
+                "quantity": 7,
+                "name": " Comb"
+            },
+            {
+                "quantity": 20,
+                "name": "Cute Ball"
+            },
+            {
+                "quantity": 3,
+                "name": " Cloth"
+            },
+            {
+                "quantity": 1,
+                "name": "Red Scarf"
+            },
+            {
+                "quantity": 1,
+                "name": "Pink Bow"
+            },
+            {
+                "quantity": 1000,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Air Tank",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "1 Hora",
+        "Materiais": [{
+                "quantity": 200,
+                "name": " Straw"
+            },
+            {
+                "quantity": 200,
+                "name": "Rubber Ball"
+            },
+            {
+                "quantity": 10,
+                "name": " Feather"
+            },
+            {
+                "quantity": 2,
+                "name": "Bat Wing"
+            },
+            {
+                "quantity": 200,
+                "name": " Log"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Fins",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "1 Hora",
+        "Materiais": [{
+                "quantity": 200,
+                "name": "Water Gem"
+            },
+            {
+                "quantity": 100,
+                "name": "Magikarp Fin"
+            },
+            {
+                "quantity": 200,
+                "name": " Log"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Diving Mask",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "1 Hora",
+        "Materiais": [{
+                "quantity": 200,
+                "name": "Water Gem"
+            },
+            {
+                "quantity": 2,
+                "name": " Ruby"
+            },
+            {
+                "quantity": 10,
+                "name": "Water Pendant"
+            },
+            {
+                "quantity": 200,
+                "name": " Log"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Snow Ski",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "1 Hora",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Ice Orb"
+            },
+            {
+                "quantity": 14,
+                "name": " Tooth"
+            },
+            {
+                "quantity": 25,
+                "name": "Pot Of Moss Bug"
+            },
+            {
+                "quantity": 200,
+                "name": " Log"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Ski Poles",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "1 Hora",
+        "Materiais": [{
+                "quantity": 18,
+                "name": "Stone Orb"
+            },
+            {
+                "quantity": 200,
+                "name": " Screw"
+            },
+            {
+                "quantity": 200,
+                "name": " Log"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Goggles",
+        "Habilidade": "Skill 15",
+        "Tempo de espera": "1 Hora",
+        "Materiais": [{
+                "quantity": 10,
+                "name": " Sandbag"
+            },
+            {
+                "quantity": 2,
+                "name": "Bag Of Pollem"
+            },
+            {
+                "quantity": 5,
+                "name": "Bird Beak"
+            },
+            {
+                "quantity": 200,
+                "name": " Log"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Red Cap",
+        "Habilidade": "Skill 10",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 2,
+                "name": " Bulb"
+            },
+            {
+                "quantity": 72,
+                "name": " Seed"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Ninja Mask",
+        "Habilidade": "Skill 10",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 8,
+                "name": "Fire Tail"
+            },
+            {
+                "quantity": 288,
+                "name": "Essence Of Fire"
+            },
+            {
+                "quantity": 800,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Bandit Scarf",
+        "Habilidade": "Skill 12",
+        "Tempo de espera": "4 Minutos",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Squirtle Hull"
+            },
+            {
+                "quantity": 72,
+                "name": "Water Gem"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Green Beret",
+        "Habilidade": "Skill 2",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 4,
+                "name": "Butterfly Wing"
+            },
+            {
+                "quantity": 72,
+                "name": "Bug Gosme"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Rambo Band",
+        "Habilidade": "Skill 2",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 40,
+                "name": "Pot Of Moss Bug"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Purple Band",
+        "Habilidade": "Skill 2",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 30,
+                "name": "Pot Of Moss Bug"
+            },
+            {
+                "quantity": 150,
+                "name": "Bug Gosme"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Yellow Scarf",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 24,
+                "name": "Pot Of Moss Bug"
+            },
+            {
+                "quantity": 2,
+                "name": "Bee Sting"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Red Scarf",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 4,
+                "name": "Butterfly Wing"
+            },
+            {
+                "quantity": 5,
+                "name": "Pot Of Moss Bug"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Captain Hat",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 8,
+                "name": "Bag Of Pollen"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Fantasy Hat",
+        "Habilidade": "Skill 4",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 20,
+                "name": " Feather"
+            },
+            {
+                "quantity": 300,
+                "name": " Straw"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Bone Cap",
+        "Habilidade": "Skill 4",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 25,
+                "name": " Feather"
+            },
+            {
+                "quantity": 1,
+                "name": " Bone"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Zombie Cap",
+        "Habilidade": "Skill 6",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Colored Feather"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Shower Cap",
+        "Habilidade": "Skill 4",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 23,
+                "name": "Bitten Apple"
+            },
+            {
+                "quantity": 300,
+                "name": "Rubber Ball"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Yellow Scarf",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 25,
+                "name": " Feather"
+            },
+            {
+                "quantity": 1,
+                "name": "Red Wing"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Red Scarf",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Red Wing"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Green Scarf",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "4 Minutos",
+        "Materiais": [{
+                "quantity": 10,
+                "name": "Bird Beak"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Pink Bow",
+        "Habilidade": "Skill 10",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 4,
+                "name": "Snake Tail"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Yellow Bow",
+        "Habilidade": "Skill 10",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 3,
+                "name": " Mushroom"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Ghost Costume",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 4,
+                "name": "Electric Rat Tail"
+            },
+            {
+                "quantity": 4,
+                "name": "Traces Of Ghost"
+            },
+            {
+                "quantity": 800,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Orange Scarf",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Electric Rat Tail"
+            },
+            {
+                "quantity": 62,
+                "name": " Screw"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Green Scarf",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 15,
+                "name": "Electric Box"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Blue Scarf",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Electric Rat Tail"
+            },
+            {
+                "quantity": 8,
+                "name": "Electric Box"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Skull Cap",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 12,
+                "name": " Sandbag"
+            },
+            {
+                "quantity": 1,
+                "name": " Bone"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Old Man Glasses",
+        "Habilidade": "Skill 16",
+        "Tempo de espera": "6 Minutos",
+        "Materiais": [{
+                "quantity": 12,
+                "name": " Sandbag"
+            },
+            {
+                "quantity": 1,
+                "name": " Bone"
+            },
+            {
+                "quantity": 400,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Red Stripe",
+        "Habilidade": "Skill 18",
+        "Tempo de espera": "6 Minutos",
+        "Materiais": [{
+                "quantity": 7,
+                "name": "Female Ear"
+            },
+            {
+                "quantity": 300,
+                "name": "Bottle Of Poison"
+            },
+            {
+                "quantity": 800,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Ninja Mask",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 82,
+                "name": "Earth Ball"
+            },
+            {
+                "quantity": 3,
+                "name": "Piece Of Diglett"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Freddy Krueger Costume",
+        "Habilidade": "Skill 12",
+        "Tempo de espera": "4 Minutos",
+        "Materiais": [{
+                "quantity": 20,
+                "name": " Nail"
+            },
+            {
+                "quantity": 1,
+                "name": "Luck Medallion"
+            },
+            {
+                "quantity": 800,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Magic Kit",
+        "Habilidade": "Skill 10",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 8,
+                "name": "Future Orb"
+            },
+            {
+                "quantity": 1,
+                "name": "Psychic Spoon"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Wrestling Mask",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Martial Arts Scroll"
+            },
+            {
+                "quantity": 220,
+                "name": "Band Aid"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Disguise",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "5 Minutos",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Plant Tail"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Kid Cap",
+        "Habilidade": "Skill 6",
+        "Tempo de espera": "2 Minutos",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Helicopter Leave"
+            },
+            {
+                "quantity": 1,
+                "name": "Strange Rock"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Ghost Costume",
+        "Habilidade": "Skill 10",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Traces Of Ghost"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Kiss Makeup",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "4 Minutos",
+        "Materiais": [{
+                "quantity": 3,
+                "name": " Bone"
+            },
+            {
+                "quantity": 2,
+                "name": " Tongue"
+            },
+            {
+                "quantity": 800,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Pipe",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 4,
+                "name": "Venom Flute"
+            },
+            {
+                "quantity": 200,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Jester Hat",
+        "Habilidade": "Skill 10",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 10,
+                "name": "Blue Vines"
+            },
+            {
+                "quantity": 800,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Ghost Costume",
+        "Habilidade": "Skill 8",
+        "Tempo de espera": "3 Minutos",
+        "Materiais": [{
+                "quantity": 5,
+                "name": "Blue Vines"
+            },
+            {
+                "quantity": 3,
+                "name": "Traces Of Ghost"
+            },
+            {
+                "quantity": 100,
+                "name": "Ghost Essence"
+            },
+            {
+                "quantity": 800,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "White Bed",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "10 Minutos",
+        "Materiais": [{
+                "quantity": 2,
+                "name": " Cloth"
+            },
+            {
+                "quantity": 200,
+                "name": " Straw"
+            },
+            {
+                "quantity": 200,
+                "name": " Log"
+            }
+        ]
+    },
+    {
+        "Item": "Pink Tapestry",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "6 Minutos",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "White Tapestry"
+            },
+            {
+                "quantity": 1,
+                "name": "Purple Tapestry"
+            },
+            {
+                "quantity": 3,
+                "name": "Future Orb"
+            },
+            {
+                "quantity": 40,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Dark Purple Tapestry",
+        "Habilidade": "Skill 14",
+        "Tempo de espera": "6 Minutos",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Blue Tapestry"
+            },
+            {
+                "quantity": 1,
+                "name": "Purple Tapestry"
+            },
+            {
+                "quantity": 100,
+                "name": "Ghost Essence"
+            },
+            {
+                "quantity": 40,
+                "name": "Style Point"
+            }
+        ]
+    },
+    {
+        "Item": "Workshop D",
+        "Habilidade": "Skill 20",
+        "Tempo de espera": "1 Dia",
+        "Materiais": [{
+            "quantity": 1,
+            "name": " Diamante"
+        }]
+    },
+    {
+        "Item": "Workshop D (Portátil)",
+        "Habilidade": "Skill 20",
+        "Tempo de espera": "1 Dia",
+        "Materiais": [{
+            "quantity": 1,
+            "name": " Diamante"
+        }]
+    }
+]
