@@ -3,6 +3,8 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import { Lista } from '@/components/lista'
+import data from '../json/estilista/betterEstilista.json'
+
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -50,7 +52,7 @@ export default function Home() {
             </tr>
           </thead>
           <tbody>
-    <Lista/>
+    <Lista data={data}/>
           </tbody>
         </table>
 
