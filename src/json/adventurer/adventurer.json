@@ -1,0 +1,858 @@
+[{
+        "Item": "Diamond Dust (20x)",
+        "Habilidade": "Skill 2",
+        "Tempo de espera": "5 Segundos",
+        "Materiais": [{
+            "quantity": 1,
+            "name": " Diamond"
+        }]
+    },
+    {
+        "Item": "Item Finder E (10x)",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "8 Minutos",
+        "Materiais": [{
+                "quantity": 10,
+                "name": "Water Pendant"
+            },
+            {
+                "quantity": 5,
+                "name": "Pot Of Lava"
+            },
+            {
+                "quantity": 50,
+                "name": "Rubber Ball"
+            },
+            {
+                "quantity": 50,
+                "name": "Essence Of Fire"
+            },
+            {
+                "quantity": 50,
+                "name": "Water Gem"
+            },
+            {
+                "quantity": 8,
+                "name": "Electric Box"
+            }
+        ]
+    },
+    {
+        "Item": "Lockpick (2x)",
+        "Habilidade": "Skill 0",
+        "Tempo de espera": "20 Segundos",
+        "Materiais": [{
+                "quantity": 30,
+                "name": "Small Stone"
+            },
+            {
+                "quantity": 30,
+                "name": "Earth Ball"
+            },
+            {
+                "quantity": 20,
+                "name": " Screw"
+            }
+        ]
+    },
+    {
+        "Item": "X-Block (Tier: 1)",
+        "Habilidade": "Skill 20",
+        "Tempo de espera": "1 Hora",
+        "Materiais": [{
+            "quantity": 200,
+            "name": "Gold Coin"
+        }]
+    },
+    {
+        "Item": "Workshop D",
+        "Habilidade": "Skill 20",
+        "Tempo de espera": "1 Dia",
+        "Materiais": [{
+            "quantity": 1,
+            "name": " Diamond"
+        }]
+    },
+    {
+        "Item": "Workshop D (Portátil)",
+        "Habilidade": "Skill 20",
+        "Tempo de espera": "1 Dia",
+        "Materiais": [{
+            "quantity": 1,
+            "name": " Diamond"
+        }]
+    },
+    {
+        "Item": "Item Finder D (10x)",
+        "Habilidade": "Skill 20",
+        "Tempo de espera": "15 Minutos",
+        "Materiais": [{
+                "quantity": 7,
+                "name": "Gold Coin"
+            },
+            {
+                "quantity": 5,
+                "name": "Electric Box"
+            },
+            {
+                "quantity": 1,
+                "name": " Magnet"
+            },
+            {
+                "quantity": 1,
+                "name": "Fire Tail"
+            },
+            {
+                "quantity": 1,
+                "name": "Linearly Guided Hypnosis"
+            },
+            {
+                "quantity": 1,
+                "name": "Squirtle Hull"
+            },
+            {
+                "quantity": 5,
+                "name": "Water Pendant"
+            },
+            {
+                "quantity": 5,
+                "name": "Pot Of Lava"
+            }
+        ]
+    },
+    {
+        "Item": "Gold Bar",
+        "Habilidade": "Skill 20",
+        "Tempo de espera": "1 Segundo",
+        "Materiais": [{
+            "quantity": 110,
+            "name": "Gold Coin"
+        }]
+    },
+    {
+        "Item": "Hotdog Costume",
+        "Habilidade": "Skill 25",
+        "Tempo de espera": "12 Horas",
+        "Materiais": [{
+                "quantity": 1000,
+                "name": " Hotdog"
+            },
+            {
+                "quantity": 1000,
+                "name": " Hamburger"
+            },
+            {
+                "quantity": 175,
+                "name": "Cooking Token"
+            }
+        ]
+    },
+    {
+        "Item": "Pile of Rocks",
+        "Habilidade": "Skill 30",
+        "Tempo de espera": "2 Horas",
+        "Materiais": [{
+                "quantity": 200,
+                "name": "Stone Orb"
+            },
+            {
+                "quantity": 12,
+                "name": "Strange Rock"
+            },
+            {
+                "quantity": 50,
+                "name": "Gold Coin"
+            }
+        ]
+    },
+    {
+        "Item": "X-Block (Tier: 2)",
+        "Habilidade": "Skill 40",
+        "Tempo de espera": "2 Horas",
+        "Materiais": [{
+            "quantity": 10,
+            "name": "Gold Bar"
+        }]
+    },
+    {
+        "Item": "Workshop C",
+        "Habilidade": "Skill 40",
+        "Tempo de espera": "1 Dia",
+        "Materiais": [{
+            "quantity": 4,
+            "name": " Diamond"
+        }]
+    },
+    {
+        "Item": "Workshop C (Portátil)",
+        "Habilidade": "Skill 40",
+        "Tempo de espera": "1 Dia",
+        "Materiais": [{
+            "quantity": 4,
+            "name": " Diamond"
+        }]
+    },
+    {
+        "Item": "Item Finder C (10x)",
+        "Habilidade": "Skill 40",
+        "Tempo de espera": "30 Minutos",
+        "Materiais": [{
+                "quantity": 30,
+                "name": "Gold Coin"
+            },
+            {
+                "quantity": 50,
+                "name": "Water Pendant"
+            },
+            {
+                "quantity": 2,
+                "name": "Red Scale"
+            },
+            {
+                "quantity": 3,
+                "name": "Squirtle Hull"
+            },
+            {
+                "quantity": 3,
+                "name": "Hot Fur"
+            },
+            {
+                "quantity": 2,
+                "name": "Fire Tail"
+            },
+            {
+                "quantity": 40,
+                "name": "Pot Of Lava"
+            },
+            {
+                "quantity": 6,
+                "name": "Pinsir Horn"
+            },
+            {
+                "quantity": 45,
+                "name": "Pot Of Moss Bug"
+            },
+            {
+                "quantity": 2,
+                "name": "Insect Claw"
+            },
+            {
+                "quantity": 250,
+                "name": "Bug Gosme"
+            }
+        ]
+    },
+    {
+        "Item": "Unfinished Articuno Sculpture",
+        "Habilidade": "Skill 50",
+        "Tempo de espera": "2 Dias",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Pile Of Rocks"
+            },
+            {
+                "quantity": 4,
+                "name": "Ice Bra"
+            },
+            {
+                "quantity": 200,
+                "name": "Ice Orb"
+            },
+            {
+                "quantity": 30,
+                "name": "Seal Tail"
+            },
+            {
+                "quantity": 167,
+                "name": "Bird Beak"
+            }
+        ]
+    },
+    {
+        "Item": "Unfinished Moltres Sculpture",
+        "Habilidade": "Skill 50",
+        "Tempo de espera": "2 Dias",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Pile Of Rocks"
+            },
+            {
+                "quantity": 6,
+                "name": "Magma Foot"
+            },
+            {
+                "quantity": 250,
+                "name": "Pot Of Lava"
+            },
+            {
+                "quantity": 34,
+                "name": "Fire Tail"
+            },
+            {
+                "quantity": 167,
+                "name": "Bird Beak"
+            }
+        ]
+    },
+    {
+        "Item": "Unfinished Zapdos Sculpture",
+        "Habilidade": "Skill 50",
+        "Tempo de espera": "2 Dias",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Pile Of Rocks"
+            },
+            {
+                "quantity": 6,
+                "name": "Electric Tail"
+            },
+            {
+                "quantity": 250,
+                "name": "Electric Box"
+            },
+            {
+                "quantity": 30,
+                "name": "Electric Rat Tail"
+            },
+            {
+                "quantity": 167,
+                "name": "Bird Beak"
+            }
+        ]
+    },
+    {
+        "Item": "X-Block (Tier: 3)",
+        "Habilidade": "Skill 60",
+        "Tempo de espera": "3 Horas",
+        "Materiais": [{
+            "quantity": 25,
+            "name": "Gold Bar"
+        }]
+    },
+    {
+        "Item": "Workshop B",
+        "Habilidade": "Skill 60",
+        "Tempo de espera": "7 Dias",
+        "Materiais": [{
+            "quantity": 15,
+            "name": " Diamonds"
+        }]
+    },
+    {
+        "Item": "Workshop B (Portátil)",
+        "Habilidade": "Skill 60",
+        "Tempo de espera": "7 Dias",
+        "Materiais": [{
+            "quantity": 15,
+            "name": " Diamonds"
+        }]
+    },
+    {
+        "Item": "Item Finder B (10x)",
+        "Habilidade": "Skill 60",
+        "Tempo de espera": "1 Hora e 40 Minutos.",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Gold Bar"
+            },
+            {
+                "quantity": 8,
+                "name": "Strange Rock"
+            },
+            {
+                "quantity": 7,
+                "name": "Horn Drill"
+            },
+            {
+                "quantity": 8,
+                "name": "Hot Fur"
+            },
+            {
+                "quantity": 8,
+                "name": "Fire Tail"
+            },
+            {
+                "quantity": 8,
+                "name": "Strange Antenna"
+            },
+            {
+                "quantity": 3,
+                "name": "Linearly Guided Hypnosis"
+            },
+            {
+                "quantity": 75,
+                "name": "Electric Box"
+            },
+            {
+                "quantity": 8,
+                "name": "Sheep Wool"
+            },
+            {
+                "quantity": 20,
+                "name": "Pinsir Horn"
+            }
+        ]
+    },
+    {
+        "Item": "Articuno Sculpture",
+        "Habilidade": "Skill 70",
+        "Tempo de espera": "4 Dias",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Unfinished Articuno Sculpture"
+            },
+            {
+                "quantity": 4,
+                "name": "Ice Stone"
+            },
+            {
+                "quantity": 3,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "Moltres Sculpture",
+        "Habilidade": "Skill 70",
+        "Tempo de espera": "4 Dias",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Unfinished Moltres Sculpture"
+            },
+            {
+                "quantity": 4,
+                "name": "Fire Stone"
+            },
+            {
+                "quantity": 3,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "Zapdos Sculpture",
+        "Habilidade": "Skill 70",
+        "Tempo de espera": "4 Dias",
+        "Materiais": [{
+                "quantity": 3,
+                "name": "Unfinished Zapdos Sculpture"
+            },
+            {
+                "quantity": 4,
+                "name": "Thunder Stone"
+            },
+            {
+                "quantity": 3,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "X-Block (Tier: 4)",
+        "Habilidade": "Skill 80",
+        "Tempo de espera": "6 Horas",
+        "Materiais": [{
+            "quantity": 60,
+            "name": "Gold Bar"
+        }]
+    },
+    {
+        "Item": "Super Grill",
+        "Habilidade": "Skill 64",
+        "Tempo de espera": "3 Dias",
+        "Materiais": [{
+                "quantity": 4,
+                "name": "Gold Bar"
+            },
+            {
+                "quantity": 3,
+                "name": " Pikaburger"
+            },
+            {
+                "quantity": 750,
+                "name": " Hamburger"
+            },
+            {
+                "quantity": 250,
+                "name": "Cooking Token"
+            }
+        ]
+    },
+    {
+        "Item": "Workshop A",
+        "Habilidade": "Skill 80",
+        "Tempo de espera": "14 Dias",
+        "Materiais": [{
+            "quantity": 30,
+            "name": " Diamonds"
+        }]
+    },
+    {
+        "Item": "Workshop A (Portátil)",
+        "Habilidade": "Skill 80",
+        "Tempo de espera": "14 Dias",
+        "Materiais": [{
+            "quantity": 30,
+            "name": " Diamonds"
+        }]
+    },
+    {
+        "Item": "Item Finder A (10x)",
+        "Habilidade": "Skill 80",
+        "Tempo de espera": "3 Horas",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Gold Bar"
+            },
+            {
+                "quantity": 26,
+                "name": "Metal Jaw"
+            },
+            {
+                "quantity": 25,
+                "name": " Pawn"
+            },
+            {
+                "quantity": 20,
+                "name": "Black Fin"
+            },
+            {
+                "quantity": 1,
+                "name": "Tech Ball"
+            },
+            {
+                "quantity": 20,
+                "name": "Dog Ear"
+            },
+            {
+                "quantity": 20,
+                "name": "Hyena Tail"
+            },
+            {
+                "quantity": 1,
+                "name": "Mini Wing"
+            }
+        ]
+    },
+    {
+        "Item": "Mystic Lamp",
+        "Habilidade": "Skill 92",
+        "Tempo de espera": "3 Dias",
+        "Materiais": [{
+                "quantity": 75,
+                "name": "Mystic Fragment"
+            },
+            {
+                "quantity": 2,
+                "name": "Solid Rock Paw"
+            },
+            {
+                "quantity": 2,
+                "name": "Massive Vines"
+            },
+            {
+                "quantity": 2,
+                "name": "Max Volt Paw"
+            },
+            {
+                "quantity": 2,
+                "name": "Blaze Topknot"
+            },
+            {
+                "quantity": 2,
+                "name": "Scary Smile"
+            },
+            {
+                "quantity": 2,
+                "name": "Mystic Star"
+            },
+            {
+                "quantity": 1,
+                "name": "Mummy Toy"
+            },
+            {
+                "quantity": 1,
+                "name": "Old Book"
+            },
+            {
+                "quantity": 40,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "Gold Coin (100x)",
+        "Habilidade": "Skill 80",
+        "Tempo de espera": "12 Horas",
+        "Materiais": [{
+            "quantity": 1,
+            "name": "High Tech CHIP"
+        }]
+    },
+    {
+        "Item": "Chef Costume",
+        "Habilidade": "Skill 90",
+        "Tempo de espera": "2 Dias",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Roasted Shiny Magikarp"
+            },
+            {
+                "quantity": 1,
+                "name": "Grilled Gyarados Tail"
+            },
+            {
+                "quantity": 1,
+                "name": "Shoyu Tentacles"
+            },
+            {
+                "quantity": 1,
+                "name": "Fried Omanyte"
+            },
+            {
+                "quantity": 750,
+                "name": "Cooking Token"
+            }
+        ]
+    },
+    {
+        "Item": "Bicycle",
+        "Habilidade": "Skill 100",
+        "Tempo de espera": "7 Dias",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Metal Stone"
+            },
+            {
+                "quantity": 3,
+                "name": "Mystic Star"
+            },
+            {
+                "quantity": 30,
+                "name": "Mini Wing"
+            },
+            {
+                "quantity": 60,
+                "name": " Scythe"
+            },
+            {
+                "quantity": 500,
+                "name": "Pinsir Horn"
+            },
+            {
+                "quantity": 1,
+                "name": "Horse Saddle"
+            },
+            {
+                "quantity": 2,
+                "name": "Bull Red Saddle"
+            },
+            {
+                "quantity": 2,
+                "name": "Bull Black Saddle"
+            },
+            {
+                "quantity": 4,
+                "name": "Pony Saddle"
+            },
+            {
+                "quantity": 30,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "Power Source",
+        "Habilidade": "Skill 98",
+        "Tempo de espera": "2 Dias",
+        "Materiais": [{
+                "quantity": 40,
+                "name": "Gold Bar"
+            },
+            {
+                "quantity": 100,
+                "name": " Greens"
+            },
+            {
+                "quantity": 10,
+                "name": " Zap"
+            },
+            {
+                "quantity": 4,
+                "name": "Tech Ball"
+            },
+            {
+                "quantity": 30,
+                "name": "Mini Volcano"
+            },
+            {
+                "quantity": 32,
+                "name": "Palm Leaves"
+            }
+        ]
+    },
+    {
+        "Item": "Arceus Sculpture",
+        "Habilidade": "Skill 100",
+        "Tempo de espera": "8 Dias",
+        "Materiais": [{
+                "quantity": 2,
+                "name": "Scary Smile"
+            },
+            {
+                "quantity": 25,
+                "name": "Strange Tail"
+            },
+            {
+                "quantity": 1,
+                "name": "Golden Animal Statue"
+            },
+            {
+                "quantity": 1,
+                "name": "Mummy Toy"
+            },
+            {
+                "quantity": 5,
+                "name": "Precious Ring"
+            },
+            {
+                "quantity": 30,
+                "name": "Jewel Case"
+            },
+            {
+                "quantity": 1,
+                "name": "Mystic Star"
+            },
+            {
+                "quantity": 100,
+                "name": "Giant Pearl"
+            },
+            {
+                "quantity": 50,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "Colored Articuno Sculpture",
+        "Habilidade": "Skill 90",
+        "Tempo de espera": "5 Dias",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Articuno Sculpture"
+            },
+            {
+                "quantity": 1,
+                "name": "Seavell Urn"
+            },
+            {
+                "quantity": 10,
+                "name": "Beautiful Scales"
+            },
+            {
+                "quantity": 50,
+                "name": "Blue Dye"
+            },
+            {
+                "quantity": 20,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "Colored Moltres Sculpture",
+        "Habilidade": "Skill 90",
+        "Tempo de espera": "5 Dias",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Moltres Sculpture"
+            },
+            {
+                "quantity": 1,
+                "name": "Volcanic Urn"
+            },
+            {
+                "quantity": 1,
+                "name": "Blaze Topknot"
+            },
+            {
+                "quantity": 50,
+                "name": "Red Dye"
+            },
+            {
+                "quantity": 20,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "Colored Zapdos Sculpture",
+        "Habilidade": "Skill 90",
+        "Tempo de espera": "5 Dias",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Zapdos Sculpture"
+            },
+            {
+                "quantity": 1,
+                "name": "Raibolt Urn"
+            },
+            {
+                "quantity": 1,
+                "name": "Max Volt Paw"
+            },
+            {
+                "quantity": 50,
+                "name": "Yellow Dye"
+            },
+            {
+                "quantity": 20,
+                "name": "Gold Bar"
+            }
+        ]
+    },
+    {
+        "Item": "X-Block (Tier: 5)",
+        "Habilidade": "Skill 100",
+        "Tempo de espera": "1 Dia",
+        "Materiais": [{
+            "quantity": 200,
+            "name": "Gold Bar"
+        }]
+    },
+    {
+        "Item": "X-Block (Tier: 6)",
+        "Habilidade": "Skill 100",
+        "Tempo de espera": "1 Dia e 12 Horas",
+        "Materiais": [{
+            "quantity": 650,
+            "name": "Gold Bar"
+        }]
+    },
+    {
+        "Item": "Mecha",
+        "Habilidade": "Skill 100",
+        "Tempo de espera": "5 Dias",
+        "Materiais": [{
+                "quantity": 1,
+                "name": "Mecha Chip"
+            },
+            {
+                "quantity": 1,
+                "name": "Mecha Right Arm"
+            },
+            {
+                "quantity": 1,
+                "name": "Mecha Chest"
+            },
+            {
+                "quantity": 1,
+                "name": "Mecha Left Arm"
+            },
+            {
+                "quantity": 1,
+                "name": "Power Source"
+            }
+        ]
+    }
+]
