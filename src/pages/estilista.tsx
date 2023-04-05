@@ -1,4 +1,5 @@
 import { Lista } from '@/components/lista'
+import { Main } from '@/components/main'
 import styles from '@/styles/Home.module.css'
 import data from '../json/estilista/betterEstilista.json'
 export default function Estilista () {
@@ -11,7 +12,7 @@ export default function Estilista () {
           </p>
         <h1>Estilista</h1>
           </div>
-          <Lista data={data}/>
+          <Main data={data}/>
 
         </main>
     )
