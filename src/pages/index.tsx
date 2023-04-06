@@ -6,7 +6,7 @@ import { Main } from '@/components/main'
 
 
 
-export default function Home() {
+export default function Home({data}: any) {
   return (
     <>
       <Head>
@@ -18,4 +18,10 @@ export default function Home() {
       <Main data={data}/>
     </>
   )
+}
+
+export async function getStaticProps(){
+  return{
+    props: {data}
+  }
 }
