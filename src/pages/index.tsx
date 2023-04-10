@@ -11,7 +11,7 @@ export default function Home({data}: any) {
     <>
       <Head>
         <title>Naturia e Clan</title>
-        <meta name="description" content="Naturia e clan, crafts e informações de pxg" />
+        <meta name="description" content="Naturia e clan, crafts e informações items de pxg" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
