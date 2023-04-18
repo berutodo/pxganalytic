@@ -5,7 +5,7 @@ export function Lista({data}: any){
     return(
         <>
         {data.map((e: any) => e.rankE.map((e: Lista, index: number) => (
-                <tr key={index}>
+                <tr className='flex flex-row' key={index}>
                 <td>{e['Item']}</td>
                 <td>{e['Habilidade']}</td>
                 <td>{e['Tempo de espera']}</td>

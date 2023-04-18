@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import { Lista } from '@/components/lista'
 import data from '../json/estilista/betterEstilista.json'
 import { Main } from '@/components/main'
 import { Search } from '@/components/search'

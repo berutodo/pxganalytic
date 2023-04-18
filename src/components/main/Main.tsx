@@ -1,22 +1,11 @@
-import Image from "next/image";
-import styles from '@/styles/Home.module.css'
 import { Lista } from "../lista";
 import { Inter } from 'next/font/google'
-const inter = Inter({ subsets: ['latin'] })
 
 
 export function Main ({data}: any) {
     return(
-        <main className={styles.main}>
-        <table>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Skill</th>
-              <th>Tempo</th>
-              <th>Items</th>
-            </tr>
-          </thead>
+        <main>
+        <table className="flex flex-col items-center">
           <tbody>
     <Lista data={data}/>
           </tbody>
@@ -24,13 +13,12 @@ export function Main ({data}: any) {
 
 
 
-        <div className={styles.grid}>
+        <div>
           <a
             href="estilista"
-            className={styles.card}
             rel="noopener noreferrer"
           >
-            <h2 className={inter.className}>
+            <h2>
               Estilista <span>-&gt;</span>
             </h2>
         
@@ -38,10 +26,9 @@ export function Main ({data}: any) {
 
           <a
             href="engineer"
-            className={styles.card}
             rel="noopener noreferrer"
           >
-            <h2 className={inter.className}>
+            <h2>
               Engenheiro <span>-&gt;</span>
             </h2>
         
@@ -49,10 +36,9 @@ export function Main ({data}: any) {
 
           <a
             href="professor"
-            className={styles.card}
             rel="noopener noreferrer"
           >
-            <h2 className={inter.className}>
+            <h2>
               Professor <span>-&gt;</span>
             </h2>
        
@@ -60,10 +46,9 @@ export function Main ({data}: any) {
 
           <a
             href="adventurer"
-            className={styles.card}
             rel="noopener noreferrer"
           >
-            <h2 className={inter.className}>
+            <h2>
               Aventureiro <span>-&gt;</span>
             </h2>
           </a>
