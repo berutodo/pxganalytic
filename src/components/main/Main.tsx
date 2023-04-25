@@ -1,19 +1,16 @@
 import { Lista } from "../lista";
-import { Inter } from 'next/font/google'
 
 
 export function Main ({data}: any) {
     return(
         <main>
-        <table className="flex flex-col items-center">
-          <tbody>
+        <div className="flex flex-col items-center">
     <Lista data={data}/>
-          </tbody>
-        </table>
+        </div>
 
 
 
-        <div>
+        <div className="flex flex-row">
           <a
             href="estilista"
             rel="noopener noreferrer"
