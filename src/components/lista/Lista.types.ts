@@ -9,3 +9,12 @@ interface Material {
   quantity: number;
   name: string;
 }
+
+export interface PokemonData {
+  pokemons: {
+    title: string;
+    src: string;
+  }[];
+  src: string;
+  name: string;
+}
