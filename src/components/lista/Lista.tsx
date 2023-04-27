@@ -12,8 +12,8 @@ export function Lista({data}: any){
                   <h1 className='bottom-1 right-1 absolute'>{e['Tempo de espera']}</h1>
                   <div className='flex flex-row'>
                     {e['Materiais'].map((m, index) => (
-                      <div className='flex flex-row items-baseline'>
-                      <p key={index}>{m.quantity}</p>
+                      <div key={index} className='flex flex-row items-baseline'>
+                      <p >{m.quantity}</p>
                       <Image alt={m.name} title={m.name} width={20} height={20} src={lista.find((obj) => obj.name === m.name)?.src ?? ""} />
                       </div>
                     ))}
