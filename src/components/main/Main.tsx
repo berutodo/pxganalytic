@@ -4,7 +4,7 @@ import { Lista } from "../lista";
 export function Main ({data}: any) {
     return(
         <main>
-        <div className="flex mx-auto flex-row flex-wrap justify-center items-center gap-2 w-4/5">
+        <div className="flex mx-auto flex-row flex-wrap justify-center items-center gap-2 w-full sm:w-4/5">
     <Lista data={data}/>
         </div>
 
