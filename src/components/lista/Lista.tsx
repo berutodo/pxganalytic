@@ -3,7 +3,6 @@ import lista from '../../json/items/items.json'
 import { Modal } from '../modal'
 import Image from 'next/image'
 import { useState } from 'react'
-import { stat } from 'fs'
 
 export function Lista({data}: any){
   const [statusModal, setStatusModal] = useState(false)
