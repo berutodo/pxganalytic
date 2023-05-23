@@ -18,6 +18,10 @@
         ],
         "src": "https://wiki.pokexgames.com/images/3/34/Bulb1.png",
         "name": "Bulb"
+    }, {
+        "src": "https://wiki.pokexgames.com/images/e/ea/Diamond.png",
+        "name": "Diamond",
+        "pokemons": [{}]
     },
     {
         "pokemons": [{
