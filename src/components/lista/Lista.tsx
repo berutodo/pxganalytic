@@ -13,9 +13,12 @@ export function Lista({data}: any){
     console.log(statusModal)
     setStatusModal(true)
   }
+  const handleOutsideClick = () => {
+    setStatusModal(false);
+  };
     return(
         <>
-        <div className='relative w-full flex flex-row justify-center'>
+        <div onClick={handleOutsideClick} className='relative w-full flex flex-row justify-center'>
         {statusModal && <Modal x={searchedItem} />}
         </div>
         {data.map((e: any) => e.rankE.map((e: Lista, index: number) => (
