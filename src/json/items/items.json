@@ -21,21 +21,25 @@
     }, {
         "src": "https://wiki.pokexgames.com/images/e/ea/Diamond.png",
         "name": "Diamond",
-        "pokemons": [{}]
+        "pokemons": []
     },
     {
         "name": "Log",
-        "src": "https://wiki.pokexgames.com/images/e/e0/Log.png"
+        "src": "https://wiki.pokexgames.com/images/e/e0/Log.png",
+        "pokemons": []
     }, {
         "name": "Straw",
-        "src": "https://wiki.pokexgames.com/images/5/55/Straw.png"
+        "src": "https://wiki.pokexgames.com/images/5/55/Straw.png",
+        "pokemons": []
     }, {
         "name": "Style Point",
-        "src": "https://wiki.pokexgames.com/images/e/e0/Style_point.png"
+        "src": "https://wiki.pokexgames.com/images/e/e0/Style_point.png",
+        "pokemons": []
     },
     {
         "name": "Red Wing",
-        "src": "https://wiki.pokexgames.com/images/b/ba/Red_Wing.png"
+        "src": "https://wiki.pokexgames.com/images/b/ba/Red_Wing.png",
+        "pokemons": []
     },
     {
         "pokemons": [{

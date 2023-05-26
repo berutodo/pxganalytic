@@ -4,7 +4,7 @@ import { Modal } from '../modal'
 import Image from 'next/image'
 import { useState } from 'react'
 
-export function Lista({data}: any){
+export function Lista({data, searchData}: any){
   const [statusModal, setStatusModal] = useState(false)
   const [searchedItem, setSearchedItem] = useState("")
 
@@ -18,6 +18,7 @@ export function Lista({data}: any){
   };
     return(
         <>
+        <p>{searchData}</p>
         <div onClick={handleOutsideClick} className='relative w-full flex flex-row justify-center'>
         {statusModal && <Modal x={searchedItem} />}
         </div>
