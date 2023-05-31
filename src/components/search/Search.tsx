@@ -4,9 +4,7 @@ import searchSvg from "../../helpers/icons/search.svg"
 export function Search ({onSearch}: any) {
     const [searchValue, setSearchValue] = useState('');
     const handleSearch = () => {
-        // Realize a lógica de busca e obtenha os resultados
-        const searchData = []; // Resultado da busca (você precisa implementar isso)
-        onSearch(searchValue); // Chame a função do componente pai com os resultados da busca
+        onSearch(searchValue);
       };
     return (
         <div className="flex justify-center mb-10 align-center items-center row mt-32">
