@@ -25,12 +25,16 @@ export function Modal({ x }: any) {
         );
     
         const spriteResults = await Promise.allSettled(spritePromises ?? []);
-        const resolvedSprites = spriteResults
-          .filter((result) => result.status === "fulfilled")
-          .map((result) => (result as PromiseFulfilledResult<string>).value);
-        setSprite(resolvedSprites);
+        const tempSpriteArray: string[] = [];
+        spriteResults.forEach((result) => {
+          if (result.status === "fulfilled") {
+            tempSpriteArray.push(result.value);
+          }
+        });
+        setSprite(tempSpriteArray);
       }
     };
+    
     
   
     fetchData();
