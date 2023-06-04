@@ -20,20 +20,21 @@ export function Modal({ x }: any) {
             .then((data: PokemonData) => data.sprites.front_default)
             .catch((error) => {
               console.log(`Erro ao buscar o item ${pokemon.title}:`, error);
-              return null;
+              return ""; // Substituir o valor nulo por uma string vazia
             })
         );
     
         const spriteResults = await Promise.allSettled(spritePromises ?? []);
         const tempSpriteArray: string[] = [];
         spriteResults.forEach((result) => {
-          if (result.status === "fulfilled") {
+          if (result.status === "fulfilled" && result.value !== null) {
             tempSpriteArray.push(result.value);
           }
         });
         setSprite(tempSpriteArray);
       }
     };
+    
     
     
   
