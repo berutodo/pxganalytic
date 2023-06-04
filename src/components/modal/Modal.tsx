@@ -1,26 +1,37 @@
 import { useEffect, useState } from "react";
 import lista from '../../json/items/items.json'
+interface PokemonData {
+  sprites: {
+    front_default: string;
+    // Outras propriedades dos sprites, se houver
+  };
+  // Outras propriedades do Pokémon, se houver
+}
 
 export function Modal({ x }: any) {
-  const [sprite, setSprite] = useState([])
+  const [sprite, setSprite] = useState<string[]>([]);
   const pokemons = lista.find(e => e.name == x)?.pokemons
   useEffect(() => {
     const fetchData = async () => {
-      if (sprite.length === 0) { // Verifica se já existem imagens no estado sprite
+      if (sprite.length === 0) {
         const spritePromises = pokemons?.map((pokemon) =>
           fetch(`https://pokeapi.co/api/v2/pokemon/${pokemon.title.toLowerCase()}`)
             .then((response) => response.json())
-            .then((data) => data.sprites.front_default)
+            .then((data: PokemonData) => data.sprites.front_default)
             .catch((error) => {
               console.log(`Erro ao buscar o item ${pokemon.title}:`, error);
-              return null; // Trata o erro e retorna um valor padrão
+              return null;
             })
         );
-  
-        const spriteResults = await Promise.all(spritePromises);
-        setSprite(spriteResults.filter((sprite) => sprite !== null));
+    
+        const spriteResults = await Promise.allSettled(spritePromises ?? []);
+        const resolvedSprites = spriteResults
+          .filter((result) => result.status === "fulfilled")
+          .map((result) => (result as PromiseFulfilledResult<string>).value);
+        setSprite(resolvedSprites);
       }
     };
+    
   
     fetchData();
   }, [pokemons, sprite]); // Adiciona sprite como uma dependência do useEffect
