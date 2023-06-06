@@ -39,13 +39,11 @@ export function Modal({ x }: any) {
   }, [pokemons]);
 
   return (
-    <div className="w-96 h-96 z-10 border-black flex flex-col justify-center items-center border-2 mx-auto fixed">
+    <div className="w-96 h-96 z-10 bg-[#FFF0F5]  flex flex-col justify-center items-center border-2 border-black rounded-lg mx-auto fixed">
       <p className="text-2xl">{x}</p>
-      {pokemons && pokemons.length > 1 && (
-        <p>{pokemons[1].title}</p>
-      )}
+      
       {sprite.length > 0 && (
-        <div className="flex flex-row">
+        <div className="flex flex-row flex-wrap">
           {sprite.map((imageUrl, index) => (
             <img key={index} src={imageUrl} alt={`Pokemon ${index}`} />
           ))}
