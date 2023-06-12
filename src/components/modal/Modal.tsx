@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import lista from '../../json/items/items.json'
+import Image from "next/image";
 
 interface PokemonData {
   sprites: {
@@ -45,7 +46,7 @@ export function Modal({ x }: any) {
       {sprite.length > 0 && (
         <div className="flex flex-row flex-wrap">
           {sprite.map((imageUrl, index) => (
-            <img key={index} src={imageUrl} alt={`Pokemon ${index}`} />
+            <Image width={50} height={50} key={index} src={imageUrl} alt={`Pokemon ${index}`} />
           ))}
         </div>
       )}

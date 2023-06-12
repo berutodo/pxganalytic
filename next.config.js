@@ -2,7 +2,7 @@
 const nextConfig = {
     reactStrictMode: true,
     images: {
-        domains: ['wiki.pokexgames.com'],
+        domains: ['wiki.pokexgames.com', 'raw.githubusercontent.com'],
     },
 }
 
