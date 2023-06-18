@@ -28,7 +28,7 @@
         "src": "https://wiki.pokexgames.com/images/e/e0/Log.png",
         "pokemons": []
     }, {
-        "name": "Earth ball",
+        "name": "Earth Ball",
         "src": "https://wiki.pokexgames.com/images/6/61/EarthBall.png"
     }, {
         "name": "Straw",
@@ -38,6 +38,21 @@
         "name": "Style Point",
         "src": "https://wiki.pokexgames.com/images/e/e0/Style_point.png",
         "pokemons": []
+    }, {
+        "name": "Comb",
+        "src": "https://wiki.pokexgames.com/images/9/9b/Comb.png"
+    }, {
+        "name": "Rubber Ball",
+        "src": "https://wiki.pokexgames.com/images/d/d1/RubberBall.png"
+    }, {
+        "name": "Feather",
+        "src": "https://wiki.pokexgames.com/images/7/7f/FeatherMark.png"
+    }, {
+        "name": "Water Gem",
+        "src": "https://wiki.pokexgames.com/images/c/c0/Water_gem.png"
+    }, {
+        "name": "Bag of Pollen",
+        "src": "https://wiki.pokexgames.com/images/b/bc/BagOfPollem.png"
     },
     {
         "name": "Red Wing",
@@ -163,6 +178,8 @@
             {
                 "title": "Shiny Venomoth",
                 "src": "/images/0/03/049-Sh_Venomoth.png"
+            }, {
+                "title": "Venonat"
             }
         ],
         "src": "https://wiki.pokexgames.com/images/5/56/Bug_Venom.png",
