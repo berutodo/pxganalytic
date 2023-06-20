@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import data from '../json/estilista/betterEstilista.json'
 import { Main } from '@/components/main'
-import { Search } from '@/components/search'
 
 
 
@@ -9,8 +8,8 @@ export default function Home({data}: any) {
   return (
     <>
       <Head>
-        <title>Naturia e Clan</title>
-        <meta name="description" content="Naturia e clan, crafts e informações items de pxg" />
+        <title>Naturia é Clan</title>
+        <meta name="description" content="Guia de Items, craft e profissões não oficial da Pokexgames" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

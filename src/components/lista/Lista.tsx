@@ -18,7 +18,6 @@ export function Lista({data, searchData}: any){
   };
     return(
         <>
-        <p>{searchData}</p>
         <div onClick={handleOutsideClick} className='relative w-full flex flex-row justify-center'>
         {statusModal && <Modal x={searchedItem} />}
         </div>
