@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import lista from '../../json/items/items.json'
+import lista from '../../json/items/items.json';
 import Image from "next/image";
 
 interface PokemonData {
@@ -9,47 +9,66 @@ interface PokemonData {
 }
 
 export function Modal({ x }: any) {
-  const [sprite, setSprite] = useState<string[]>([]);
-  const pokemons = lista.find(e => e.name == x)?.pokemons;
+  const [sprites, setSprites] = useState<string[]>([]);
 
   useEffect(() => {
     const fetchData = async () => {
-      const spritePromises = pokemons?.map((pokemon) =>
+      const pokemons = lista.find(e => e.name === x)?.pokemons;
+      if (!pokemons || pokemons.length === 0) return;
+
+      const spriteUrls: string[] = [];
+      const spriteCache: Record<string, string> = {};
+
+      // Check cache for previously fetched sprites
+      for (const pokemon of pokemons) {
+        if (spriteCache[pokemon.title]) {
+          spriteUrls.push(spriteCache[pokemon.title]);
+        }
+      }
+
+      // Fetch missing sprites
+      const missingPokemons = pokemons.filter(pokemon => !spriteCache[pokemon.title]);
+      const spritePromises = missingPokemons.map((pokemon) =>
         fetch(`https://pokeapi.co/api/v2/pokemon/${pokemon.title.toLowerCase()}`)
           .then((response) => response.json())
-          .then((data: PokemonData) => data.sprites.front_default)
+          .then((data: PokemonData) => {
+            const spriteUrl = data.sprites.front_default;
+            spriteCache[pokemon.title] = spriteUrl; // Store in cache
+            return spriteUrl;
+          })
           .catch((error) => {
-            console.log(`Erro ao buscar o item ${pokemon.title}:`, error);
+            console.log(`Error fetching data for ${pokemon.title}:`, error);
             return "";
           })
       );
 
-      const spriteResults = await Promise.allSettled(spritePromises ?? []);
-      const tempSpriteArray: string[] = [];
-      spriteResults.forEach((result) => {
-        if (result.status === "fulfilled" && result.value !== null) {
-          tempSpriteArray.push(result.value);
-        }
-      });
-      setSprite(tempSpriteArray);
+      // Wait for all fetch requests to complete
+      const spriteResults = await Promise.all(spritePromises);
+      spriteUrls.push(...spriteResults);
+
+      setSprites(spriteUrls);
     };
 
-    if (pokemons && pokemons.length > 0) {
-      fetchData();
-    }
-  }, [pokemons]);
+    fetchData();
+  }, [x]);
 
   return (
     <div className="w-96 h-96 z-10 bg-[#FFF0F5]  flex flex-col justify-center items-center border-2 border-black rounded-lg mx-auto fixed">
       <p className="text-2xl">{x}</p>
-      
-      {sprite.length > 0 && (
-        <div className="flex flex-row flex-wrap">
-          {sprite.map((imageUrl, index) => (
-            <Image width={50} height={50} key={index} src={imageUrl} alt={`Pokemon ${index}`} />
-          ))}
-        </div>
-      )}
+
+      <div className="flex flex-row flex-wrap">
+        {sprites.map((spriteUrl, index) => (
+          <Image
+            key={index}
+            width={50}
+            height={50}
+            src={spriteUrl}
+            alt={`Pokemon ${index}`}
+            placeholder="blur" // Use a low-resolution placeholder
+            blurDataURL="https://placehold.co/20x20" // Placeholder image URL
+          />
+        ))}
+      </div>
     </div>
   );
 }
