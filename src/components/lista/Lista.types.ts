@@ -1,6 +1,7 @@
 export interface Lista {
   Item: string;
   Habilidade: string;
+  src: string;
   'Tempo de espera': string;
   Materiais: Material[];
 }

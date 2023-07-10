@@ -1,4 +1,1187 @@
 [{
+    "rankS": [{
+            "Tempo de espera": "30 Minutos",
+            "Materiais": [{
+                    "quantity": 18,
+                    "name": "Hidden Relic"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Corrupted Pot Of Lava"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Mole Hair"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Black Wool Ball"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Fire Monkey Hair"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/2/25/Treasure_Map.png",
+            "Item": "\nTreasure Map"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 3,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Corrupted Leaves"
+                },
+                {
+                    "quantity": 4,
+                    "name": "Corrupted Champion Belt"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Mole Hair"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/d/d6/Old_Map1.png",
+            "Item": "\nOld Map"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 3,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Corrupted Leaves"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Royal Mane"
+                },
+                {
+                    "quantity": 2,
+                    "name": "Corrupted Streak Tail"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/3/36/Old_Map2.png",
+            "Item": "\nOld Map"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 3,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Corrupted Leaves"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Green Hair"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/9/9e/Old_Map3.png",
+            "Item": "\nOld Map"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 3,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Corrupted Leaves"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Elefish Fin"
+                },
+                {
+                    "quantity": 2,
+                    "name": "Corrupted Ice Orb"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/b/ba/Old_Map4.png",
+            "Item": "\nOld Map"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 120,
+                    "name": "Hidden Relic"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Corrupted Leaves"
+                },
+                {
+                    "quantity": 7,
+                    "name": "Corrupted Streak Tail"
+                },
+                {
+                    "quantity": 6,
+                    "name": "Savage Fin"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Mount Horn"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/f/f9/Nightmare_Rift.png",
+            "Item": "\nLost Jungle Rift Crystal"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 120,
+                    "name": "Hidden Relic"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Toxic Gosme"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Elefish Fin"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Savage Fin"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Black Wool Ball"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/f/f9/Nightmare_Rift.png",
+            "Item": "\nForgotten Fortress Rift Crystal"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 120,
+                    "name": "Hidden Relic"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Mole Hair"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Corrupted Doll Star"
+                },
+                {
+                    "quantity": 9,
+                    "name": "Royal Mane"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Savage Fin"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/f/f9/Nightmare_Rift.png",
+            "Item": "\nRainbow Woods Rift Crystal"
+        },
+        {
+            "Tempo de espera": "1 Hora",
+            "Materiais": [{
+                    "quantity": 120,
+                    "name": "Hidden Relic"
+                },
+                {
+                    "quantity": 16,
+                    "name": "Corrupted Magnet"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Corrupted Belt Champion"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Solid Head"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/f/f9/Nightmare_Rift.png",
+            "Item": "\nFronzen Tunnels Rift Crystal"
+        },
+        {
+            "Tempo de espera": "3 Horas",
+            "Materiais": [{
+                    "quantity": 12,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 13,
+                    "name": "Mole Hair"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Toxic Gosme"
+                },
+                {
+                    "quantity": 9,
+                    "name": "Black Lucky Charm"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/d/d9/Gold_Chest.png",
+            "Item": "\nGold Chest"
+        },
+        {
+            "Tempo de espera": "3 Horas",
+            "Materiais": [{
+                    "quantity": 12,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 11,
+                    "name": "Savage Fin"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Black Lucky Charm"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Toxic Gosme"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/d/df/Bronze_Chest.png",
+            "Item": "\nBronze Chest"
+        },
+        {
+            "Tempo de espera": "2 Dias",
+            "Materiais": [{
+                    "quantity": 150,
+                    "name": "Food Bag"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 15,
+                    "name": "Cave Nail"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Mole Hair"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Toxic Gosme"
+                },
+                {
+                    "quantity": 2,
+                    "name": "Solid Head"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Mount Horn"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/b/b6/Air_Fryer.png",
+            "Item": "\nAir Fryer"
+        },
+        {
+            "Tempo de espera": "2 Dias",
+            "Materiais": [{
+                    "quantity": 150,
+                    "name": "Food Bag"
+                },
+                {
+                    "quantity": 47,
+                    "name": "Corrupted Dragon Thooth"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Corrupted Magnet"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Corrupted Doll Star"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Corrupted Ice Piece"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Corrupted Streak Tail"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/a/a4/Silver_Air_Fryer.png",
+            "Item": "\nSilver Air Fryer"
+        },
+        {
+            "Tempo de espera": "2 Dias",
+            "Materiais": [{
+                    "quantity": 150,
+                    "name": "Food Bag"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Black Lucky Charm"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Royal Mane"
+                },
+                {
+                    "quantity": 15,
+                    "name": "Whiskers Fin"
+                },
+                {
+                    "quantity": 13,
+                    "name": "Corrupted Leaves"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Corrupted Magnet"
+                }
+            ],
+            "Habilidade": "Skill 100",
+            "src": "/images/6/6b/Microwave.png",
+            "Item": "\nMicrowave"
+        },
+        {
+            "Tempo de espera": "4 Dias",
+            "Materiais": [{
+                    "quantity": 600,
+                    "name": "Food Bag"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Black Wool Ball"
+                },
+                {
+                    "quantity": 40,
+                    "name": "Corrupted Ice Piece"
+                },
+                {
+                    "quantity": 40,
+                    "name": "Corrupted Champion Belt"
+                },
+                {
+                    "quantity": 40,
+                    "name": "Corrupted Streak Tail"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Compressed Nightmare Gem"
+                },
+                {
+                    "quantity": 2,
+                    "name": "Bagworm Pink Leaves"
+                }
+            ],
+            "Habilidade": "Skill 103",
+            "src": "/images/c/c1/Futurist_Stove.png",
+            "Item": "\nFuturist Stove"
+        },
+        {
+            "Tempo de espera": "2 Dias",
+            "Materiais": [{
+                    "quantity": 3000,
+                    "name": "Hidden Relics"
+                },
+                {
+                    "quantity": 150,
+                    "name": "Corrupted Magnet"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Black Lucky Charm"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Vines"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Horn Drill"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Green Hair"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Champion Belt"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Pot Of Lava"
+                },
+                {
+                    "quantity": 4,
+                    "name": "Catfish Tail"
+                },
+                {
+                    "quantity": 4,
+                    "name": "Bagworm Stone"
+                }
+            ],
+            "Habilidade": "Skill 105",
+            "src": "/images/0/04/Adventurer%27s_Utility_Belt.png",
+            "Item": "\nAdventurer's Utility Belt"
+        },
+        {
+            "Tempo de espera": "1 Dia",
+            "Materiais": [{
+                    "quantity": 12,
+                    "name": "Strange Gold Bar"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Red Spike"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Black Lucky Charm"
+                },
+                {
+                    "quantity": 8,
+                    "name": "White Hair"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Strange Fur"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Corrupted Belt Champion"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Psychic Mustache"
+                },
+                {
+                    "quantity": 7,
+                    "name": "Small Bird Beak"
+                }
+            ],
+            "Habilidade": "Skill 107",
+            "src": "/images/0/03/Golden_Finder.png",
+            "Item": "\nGolden Finder"
+        },
+        {
+            "Tempo de espera": "1 Dia",
+            "Materiais": [{
+                    "quantity": 21,
+                    "name": "Strange Gold Bar"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Royal Mane"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Bear Arm"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Mole Hair"
+                },
+                {
+                    "quantity": 8,
+                    "name": "Corrupted Ice Piece"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Solid Head"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Dog Ear"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/b/b1/Silver_Finder.png",
+            "Item": "\nSilver Finder"
+        },
+        {
+            "Tempo de espera": "3 Dias",
+            "Materiais": [{
+                    "quantity": 6000,
+                    "name": "Hidden Relics"
+                },
+                {
+                    "quantity": 120,
+                    "name": "Black Lucky Charm"
+                },
+                {
+                    "quantity": 120,
+                    "name": "Strange Fur"
+                },
+                {
+                    "quantity": 120,
+                    "name": "Corrupted Streak Tail"
+                },
+                {
+                    "quantity": 120,
+                    "name": "Dragon Wings"
+                },
+                {
+                    "quantity": 120,
+                    "name": "Corrupted Lizard Tail"
+                },
+                {
+                    "quantity": 90,
+                    "name": "Corrupted Feather"
+                },
+                {
+                    "quantity": 90,
+                    "name": "Dark Ear"
+                },
+                {
+                    "quantity": 90,
+                    "name": "Corrupted Miss Trace"
+                },
+                {
+                    "quantity": 90,
+                    "name": "Toxic Gosme"
+                },
+                {
+                    "quantity": 90,
+                    "name": "Bagworm Green Leaves"
+                },
+                {
+                    "quantity": 90,
+                    "name": "Bear Arm"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Magnet Remains"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Mecha Reactor"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/f/fb/Nightmare_Compass.gif",
+            "Item": "\nNightmare Compass"
+        },
+        {
+            "Tempo de espera": "6 Horas",
+            "Materiais": [{
+                    "quantity": 60,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 40,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 40,
+                    "name": "Land Shark Horn"
+                },
+                {
+                    "quantity": 40,
+                    "name": "Corrupted Ice Orb"
+                },
+                {
+                    "quantity": 25,
+                    "name": "Corrupted Ice Piece"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/5/5d/Flame_Chest.png",
+            "Item": "\nFlame Chest"
+        },
+        {
+            "Tempo de espera": "6 Horas",
+            "Materiais": [{
+                    "quantity": 60,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Corrupted Black Hull"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Toxic Gosme"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Corrupted Streak Tail"
+                },
+                {
+                    "quantity": 15,
+                    "name": "Corrupted Tree Branch"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/f/f7/Purple_Flame_Chest.png",
+            "Item": "\nPurple Flame Chest"
+        },
+        {
+            "Tempo de espera": "6 Horas",
+            "Materiais": [{
+                    "quantity": 60,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Corrupted Pot Of Moss Bug"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Green Hair"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Corrupted Champion Belt"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Mount Horn"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/0/02/Green_Flame_Chest_.png",
+            "Item": "\nGreen Flame Chest"
+        },
+        {
+            "Tempo de espera": "6 Horas",
+            "Materiais": [{
+                    "quantity": 60,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 45,
+                    "name": "Whiskers Fin"
+                },
+                {
+                    "quantity": 35,
+                    "name": "Corrupted Streak Tail"
+                },
+                {
+                    "quantity": 35,
+                    "name": "Cave Nail"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Corrupted Lizard Tail"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/1/17/Blue_Flame_Chest_.png",
+            "Item": "\nBlue Flame Chest"
+        },
+        {
+            "Tempo de espera": "6 Horas",
+            "Materiais": [{
+                    "quantity": 60,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Corrupted Champion Belt"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Corrupted Cloud"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Gear Nose"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Solid Head"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/5/50/Red_Heavy_Chest_.png",
+            "Item": "\nRed Heavy Chest"
+        },
+        {
+            "Tempo de espera": "6 Horas",
+            "Materiais": [{
+                    "quantity": 60,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 90,
+                    "name": "Corrupted Magnet"
+                },
+                {
+                    "quantity": 36,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 35,
+                    "name": "Cave Nail"
+                },
+                {
+                    "quantity": 35,
+                    "name": "Corrupted Champion Belt"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/b/ba/Blue_Heavy_Chest_.png",
+            "Item": "\nBlue Heavy Chest"
+        },
+        {
+            "Tempo de espera": "6 Horas",
+            "Materiais": [{
+                    "quantity": 60,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 55,
+                    "name": "Black Lucky Charm"
+                },
+                {
+                    "quantity": 55,
+                    "name": "Toxic Gosme"
+                },
+                {
+                    "quantity": 55,
+                    "name": "Small Bird Beak"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Green Hair"
+                }
+            ],
+            "Habilidade": "Skill 110",
+            "src": "/images/a/ae/Imperial_Chest_.png",
+            "Item": "\nImperial Chest"
+        },
+        {
+            "Tempo de espera": "5 Dias",
+            "Materiais": [{
+                    "quantity": 600,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Enigma Stone"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Pig Ear"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Green Hair"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Psychic Mustache"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Curly Pig Tail"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Alolan Electric Rat Tail"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Cerise Shard"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Star Remains"
+                }
+            ],
+            "Habilidade": "Skill 115",
+            "src": "/images/c/cc/Mew_%26_Mewtwo_Sculpture.gif",
+            "Item": "\nMew & Mewtwo Sculpture"
+        },
+        {
+            "Tempo de espera": "5 Dias",
+            "Materiais": [{
+                    "quantity": 600,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Psycraft Essence"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Land Shark Horn"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Corrupted Magnet"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Horn Drill"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Corrupted Streak Tail"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Red Spike"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Ancient Stone"
+                },
+                {
+                    "quantity": 40,
+                    "name": "Solid Head"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Beetle Horn"
+                }
+            ],
+            "Habilidade": "Skill 115",
+            "src": "/images/6/63/Celebi_Sculpture.png",
+            "Item": "\nCelebi Sculpture"
+        },
+        {
+            "Tempo de espera": "5 Dias",
+            "Materiais": [{ "name": "Corrupted Gold Bar", "quantity": 600 }, { "quantity": 100, "name": "Black Wool Ball" }, { "name": "Black Wool Ball", "quantity": 100 }, { "quantity": 100, "name": "Black Wool Ball" }, { "quantity": 80, "name": "Compressed Nightmare Gem" }, { "quantity": 50, "name": "Cave Nail" }, { "quantity": 40, "name": "Corrupted Horn Drill" }, { "quantity": 40, "name": "Alolan Electric Rat Tail" }, { "quantity": 40, "name": "Corrupted Champion Belt" }, { "quantity": 30, "name": "Razor Claw" }, { "quantity": 20, "name": "Mole Big Hair" }, { "quantity": 10, "name": "Bagworm Stone" }, { "quantity": 5, "name": "Dragon Armor" }],
+            "Habilidade": "Skill 115",
+            "src": "/images/3/33/Celebi_Sculpture2.gif",
+            "Item": "\nCelebi Sculpture"
+        },
+        {
+            "Tempo de espera": "5 Dias",
+            "Materiais": [{
+                    "quantity": 600,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Fire Stone"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Corrupted Pot Of Lava"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Black Wool Ball"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Royal Mane"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Corrupted Black Hull"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Entei's Legendary Fur"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Royal Tail"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Scarlet Shard"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Flame Tail"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Flame Essence"
+                }
+            ],
+            "Habilidade": "Skill 115",
+            "src": "/images/9/9a/Entei_Sculpture.png",
+            "Item": "\nEntei Sculpture"
+        },
+        {
+            "Tempo de espera": "5 Dias",
+            "Materiais": [{
+                    "quantity": 600,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Water Stone"
+                },
+                {
+                    "quantity": 110,
+                    "name": "Corrupted Gem Star"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Black Hull"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Savage Fin"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Whiskers Fin"
+                },
+                {
+                    "quantity": 30,
+                    "name": "Suicune's Legendary Tail"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Catfish Tail"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Azure Shard"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Emperor Trident"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Water Essence"
+                }
+            ],
+            "Habilidade": "Skill 115",
+            "src": "/images/2/29/Suicune_Sculpture.png",
+            "Item": "\nSuicune Sculpture"
+        },
+        {
+            "Tempo de espera": "5 Dias",
+            "Materiais": [{
+                    "quantity": 600,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Thunder Stone"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Corrupted Magnet"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Doll Star"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Elefish Fin"
+                },
+                {
+                    "quantity": 35,
+                    "name": "Raikou's Legendary Tail"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Electric Fish Tail"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Alolan Electric Rat Tail"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Sunflower Shard"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Gleam Tail"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Thunder Essence"
+                }
+            ],
+            "Habilidade": "Skill 115",
+            "src": "/images/8/8e/Raikou_Sculpture.png",
+            "Item": "\nRaikou Sculpture"
+        },
+        {
+            "Tempo de espera": "3 Dias",
+            "Materiais": [{
+                    "quantity": 1,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Corrupted Dragon Tooth"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Black Wool Ball"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Curly Pig Tail"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Corrupted Venom Flute"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Corrupted Cloud"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Corrupted Ice Piece"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Corrupted Champion Belt"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Toxic Gosme"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Royal Mane"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Gear Nose"
+                },
+                {
+                    "quantity": 5,
+                    "name": "Golden Nuggets"
+                },
+                {
+                    "quantity": 4,
+                    "name": "Dragon Remains"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Turtle Shell"
+                }
+            ],
+            "Habilidade": "Skill 115",
+            "src": "/images/d/df/Block7.png",
+            "Item": "\nX-Block (Tier: 7)"
+        },
+        {
+            "Tempo de espera": "4 Dias",
+            "Materiais": [{
+                    "quantity": 750,
+                    "name": "Corrupted Gold Bar"
+                },
+                {
+                    "quantity": 200,
+                    "name": "Corrupted Tree Branch"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Leaves"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Cow Tail"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Horn Drill"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Lovely Topknot"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Steelix Tail"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Catfish Whiskers"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Alolan Electric Rat Tail"
+                },
+                {
+                    "quantity": 100,
+                    "name": "Corrupted Ice Piece"
+                },
+                {
+                    "quantity": 50,
+                    "name": "Mach Nail"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Corrupted Doll Star"
+                },
+                {
+                    "quantity": 20,
+                    "name": "Fire Monkey Hair"
+                },
+                {
+                    "quantity": 10,
+                    "name": "Razor Claw"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Star Remains"
+                },
+                {
+                    "quantity": 3,
+                    "name": "Dragon Remains"
+                },
+                {
+                    "quantity": 2,
+                    "name": "Bear Feet"
+                },
+                {
+                    "quantity": 1,
+                    "name": "Magnet Remains"
+                },
+                {
+                    "quantity": 2,
+                    "name": "Mecha Reactor"
+                }
+            ],
+            "Habilidade": "Skill 120",
+            "src": "/images/8/8a/Block8.png",
+            "Item": "\nX-Block (Tier: 8)"
+        }
+    ],
     "rankE": [{ "Item": "Diamond Dust (20x)", "Habilidade": "Skill 2", "Tempo de espera": "5 Segundos", "Materiais": [{ "quantity": 1, "name": "Diamond" }] }, { "Item": "Cloth", "Habilidade": "Skill 0", "Tempo de espera": "5 Segundos", "Materiais": [{ "quantity": 1, "name": "Wool Ball" }] }, { "Item": "XP Plank", "Habilidade": "Skill 0", "Tempo de espera": "5 Minutos", "Materiais": [{ "quantity": 50, "name": "Earth Ball" }, { "quantity": 25, "name": "Log" }] }, { "Item": "Wooden Chair (5x)", "Habilidade": "Skill 0", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 10, "name": "Straw" }, { "quantity": 5, "name": "Log" }] }, { "Item": "Oak Table (2x)", "Habilidade": "Skill 0", "Tempo de espera": "5 Minutos", "Materiais": [{ "quantity": 12, "name": "Straw" }, { "quantity": 4, "name": "Log" }] }, { "Item": "Locker", "Habilidade": "Skill 0", "Tempo de espera": "4 Minutos", "Materiais": [{ "quantity": 14, "name": "Straw" }, { "quantity": 5, "name": "Log" }] }, { "Item": "Dresser (2x)", "Habilidade": "Skill 0", "Tempo de espera": "10 Minutos", "Materiais": [{ "quantity": 12, "name": "Straw" }, { "quantity": 4, "name": "Log" }] }, { "Item": "Hippie Male Outfit", "Habilidade": "Skill 15", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 6, "name": "Cloth" }, { "quantity": 5, "name": "Squirrel Tail" }, { "quantity": 10, "name": "Red Wing" }, { "quantity": 8, "name": "Comb" }, { "quantity": 1000, "name": "Style Point" }] }, { "Item": "Hippie Female Outfit", "Habilidade": "Skill 15", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 6, "name": "Cloth" }, { "quantity": 5, "name": "Squirrel Tail" }, { "quantity": 10, "name": "Blue Vines" }, { "quantity": 7, "name": "Strange Flower" }, { "quantity": 1000, "name": "Style Point" }] }, { "Item": "Cook Male Outfit", "Habilidade": "Skill 17", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 3, "name": "Pizza" }, { "quantity": 80, "name": "Sushi" }, { "quantity": 1, "name": "Fake Fork" }, { "quantity": 3, "name": "Bear Paw" }, { "quantity": 1000, "name": "Style Point" }] }, { "Item": "School Girl Outfit", "Habilidade": "Skill 17", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 7, "name": "Comb" }, { "quantity": 20, "name": "Cute Ball" }, { "quantity": 3, "name": "Cloth" }, { "quantity": 1, "name": "Red Scarf" }, { "quantity": 1, "name": "Pink Bow" }, { "quantity": 1000, "name": "Style Point" }] }, { "Item": "Air Tank", "Habilidade": "Skill 15", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 200, "name": "Straw" }, { "quantity": 200, "name": "Rubber Ball" }, { "quantity": 10, "name": "Feather" }, { "quantity": 2, "name": "Bat Wing" }, { "quantity": 200, "name": "Log" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Fins", "Habilidade": "Skill 15", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 200, "name": "Water Gem" }, { "quantity": 100, "name": "Magikarp Fin" }, { "quantity": 200, "name": "Log" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Diving Mask", "Habilidade": "Skill 15", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 200, "name": "Water Gem" }, { "quantity": 2, "name": "Ruby" }, { "quantity": 10, "name": "Water Pendant" }, { "quantity": 200, "name": "Log" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Snow Ski", "Habilidade": "Skill 15", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 3, "name": "Ice Orb" }, { "quantity": 14, "name": "Tooth" }, { "quantity": 25, "name": "Pot Of Moss Bug" }, { "quantity": 200, "name": "Log" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Ski Poles", "Habilidade": "Skill 15", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 18, "name": "Stone Orb" }, { "quantity": 200, "name": "Screw" }, { "quantity": 200, "name": "Log" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Goggles", "Habilidade": "Skill 15", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 10, "name": "Sandbag" }, { "quantity": 2, "name": "Bag Of Pollem" }, { "quantity": 5, "name": "Bird Beak" }, { "quantity": 200, "name": "Log" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Red Cap", "Habilidade": "Skill 10", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 2, "name": "Bulb" }, { "quantity": 72, "name": "Seed" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Ninja Mask", "Habilidade": "Skill 10", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 8, "name": "Fire Tail" }, { "quantity": 288, "name": "Essence Of Fire" }, { "quantity": 800, "name": "Style Point" }] }, { "Item": "Bandit Scarf", "Habilidade": "Skill 12", "Tempo de espera": "4 Minutos", "Materiais": [{ "quantity": 2, "name": "Squirtle Hull" }, { "quantity": 72, "name": "Water Gem" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Green Beret", "Habilidade": "Skill 2", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 4, "name": "Butterfly Wing" }, { "quantity": 72, "name": "Bug Gosme" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Rambo Band", "Habilidade": "Skill 2", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 40, "name": "Pot Of Moss Bug" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Purple Band", "Habilidade": "Skill 2", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 30, "name": "Pot Of Moss Bug" }, { "quantity": 150, "name": "Bug Gosme" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Yellow Scarf", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 24, "name": "Pot Of Moss Bug" }, { "quantity": 2, "name": "Bee Sting" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Red Scarf", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 4, "name": "Butterfly Wing" }, { "quantity": 5, "name": "Pot Of Moss Bug" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Captain Hat", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 8, "name": "Bag Of Pollen" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Fantasy Hat", "Habilidade": "Skill 4", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 20, "name": "Feather" }, { "quantity": 300, "name": "Straw" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Bone Cap", "Habilidade": "Skill 4", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 25, "name": "Feather" }, { "quantity": 1, "name": "Bone" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Zombie Cap", "Habilidade": "Skill 6", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 2, "name": "Colored Feather" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Shower Cap", "Habilidade": "Skill 4", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 23, "name": "Bitten Apple" }, { "quantity": 300, "name": "Rubber Ball" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Yellow Scarf", "Habilidade": "Skill 14", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 25, "name": "Feather" }, { "quantity": 1, "name": "Red Wing" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Red Scarf", "Habilidade": "Skill 14", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 3, "name": "Red Wing" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Green Scarf", "Habilidade": "Skill 14", "Tempo de espera": "4 Minutos", "Materiais": [{ "quantity": 10, "name": "Bird Beak" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Pink Bow", "Habilidade": "Skill 10", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 4, "name": "Snake Tail" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Yellow Bow", "Habilidade": "Skill 10", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 3, "name": "Mushroom" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Ghost Costume", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 4, "name": "Electric Rat Tail" }, { "quantity": 4, "name": "Traces Of Ghost" }, { "quantity": 800, "name": "Style Point" }] }, { "Item": "Orange Scarf", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 2, "name": "Electric Rat Tail" }, { "quantity": 62, "name": "Screw" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Green Scarf", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 15, "name": "Electric Box" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Blue Scarf", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 1, "name": "Electric Rat Tail" }, { "quantity": 8, "name": "Electric Box" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Skull Cap", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 12, "name": "Sandbag" }, { "quantity": 1, "name": "Bone" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Old Man Glasses", "Habilidade": "Skill 16", "Tempo de espera": "6 Minutos", "Materiais": [{ "quantity": 12, "name": "Sandbag" }, { "quantity": 1, "name": "Bone" }, { "quantity": 400, "name": "Style Point" }] }, { "Item": "Red Stripe", "Habilidade": "Skill 18", "Tempo de espera": "6 Minutos", "Materiais": [{ "quantity": 7, "name": "Female Ear" }, { "quantity": 300, "name": "Bottle Of Poison" }, { "quantity": 800, "name": "Style Point" }] }, { "Item": "Ninja Mask", "Habilidade": "Skill 8", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 82, "name": "Earth Ball" }, { "quantity": 3, "name": "Piece Of Diglett" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Freddy Krueger Costume", "Habilidade": "Skill 12", "Tempo de espera": "4 Minutos", "Materiais": [{ "quantity": 20, "name": "Nail" }, { "quantity": 1, "name": "Luck Medallion" }, { "quantity": 800, "name": "Style Point" }] }, { "Item": "Magic Kit", "Habilidade": "Skill 10", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 8, "name": "Future Orb" }, { "quantity": 1, "name": "Psychic Spoon" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Wrestling Mask", "Habilidade": "Skill 8", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 1, "name": "Martial Arts Scroll" }, { "quantity": 220, "name": "Band Aid" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Disguise", "Habilidade": "Skill 14", "Tempo de espera": "5 Minutos", "Materiais": [{ "quantity": 3, "name": "Plant Tail" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Kid Cap", "Habilidade": "Skill 6", "Tempo de espera": "2 Minutos", "Materiais": [{ "quantity": 2, "name": "Helicopter Leave" }, { "quantity": 1, "name": "Strange Rock" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Ghost Costume", "Habilidade": "Skill 10", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 2, "name": "Traces Of Ghost" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Kiss Makeup", "Habilidade": "Skill 14", "Tempo de espera": "4 Minutos", "Materiais": [{ "quantity": 3, "name": "Bone" }, { "quantity": 2, "name": "Tongue" }, { "quantity": 800, "name": "Style Point" }] }, { "Item": "Pipe", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 4, "name": "Venom Flute" }, { "quantity": 200, "name": "Style Point" }] }, { "Item": "Jester Hat", "Habilidade": "Skill 10", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 10, "name": "Blue Vines" }, { "quantity": 800, "name": "Style Point" }] }, { "Item": "Ghost Costume", "Habilidade": "Skill 8", "Tempo de espera": "3 Minutos", "Materiais": [{ "quantity": 5, "name": "Blue Vines" }, { "quantity": 3, "name": "Traces Of Ghost" }, { "quantity": 100, "name": "Ghost Essence" }, { "quantity": 800, "name": "Style Point" }] }, { "Item": "White Bed", "Habilidade": "Skill 14", "Tempo de espera": "10 Minutos", "Materiais": [{ "quantity": 2, "name": "Cloth" }, { "quantity": 200, "name": "Straw" }, { "quantity": 200, "name": "Log" }] }, { "Item": "Pink Tapestry", "Habilidade": "Skill 14", "Tempo de espera": "6 Minutos", "Materiais": [{ "quantity": 1, "name": "White Tapestry" }, { "quantity": 1, "name": "Purple Tapestry" }, { "quantity": 3, "name": "Future Orb" }, { "quantity": 40, "name": "Style Point" }] }, { "Item": "Dark Purple Tapestry", "Habilidade": "Skill 14", "Tempo de espera": "6 Minutos", "Materiais": [{ "quantity": 1, "name": "Blue Tapestry" }, { "quantity": 1, "name": "Purple Tapestry" }, { "quantity": 100, "name": "Ghost Essence" }, { "quantity": 40, "name": "Style Point" }] }, { "Item": "Workshop D", "Habilidade": "Skill 20", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 1, "name": "Diamond" }] }, { "Item": "Workshop D (Portátil)", "Habilidade": "Skill 20", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 1, "name": "Diamond" }] }],
     "rankD": [{ "Item": "Planks", "Habilidade": "Skill 20", "Tempo de espera": "1 Segundo", "Materiais": [{ "quantity": 100, "name": "Log" }] }, { "Item": "Refined Style Point", "Habilidade": "Skill 20", "Tempo de espera": "1 Segundo", "Materiais": [{ "quantity": 100, "name": "Style Point" }] }, { "Item": "Lesser XP Banner", "Habilidade": "Skill 20", "Tempo de espera": "30 Minutos", "Materiais": [{ "quantity": 15, "name": "Tissue" }, { "quantity": 1, "name": "Refined Style Point" }] }, { "Item": "Dragon Tamer Outfit", "Habilidade": "Skill 35", "Tempo de espera": "5 Horas", "Materiais": [{ "quantity": 10, "name": "Cloth" }, { "quantity": 13, "name": "Dragon Tooth" }, { "quantity": 10, "name": "Dragon Tail" }, { "quantity": 50, "name": "Sand Tail" }, { "quantity": 3, "name": "Mini Wing" }, { "quantity": 200, "name": "Refined Style Point" }] }, { "Item": "Grandma Outfit", "Habilidade": "Skill 35", "Tempo de espera": "5 Horas", "Materiais": [{ "quantity": 10, "name": "Cloth" }, { "quantity": 1, "name": "Pumpkin Head" }, { "quantity": 2, "name": "Ghost Costume" }, { "quantity": 4, "name": "Zombie Cap" }, { "quantity": 100, "name": "Future Orb" }, { "quantity": 50, "name": "Traces Of Ghost" }, { "quantity": 25, "name": "Miss Trace" }, { "quantity": 200, "name": "Refined Style Point" }] }, { "Item": "Karate Outfit", "Habilidade": "Skill 37", "Tempo de espera": "5 Horas", "Materiais": [{ "quantity": 10, "name": "Cloth" }, { "quantity": 1, "name": "Wrestling Mask" }, { "quantity": 1, "name": "Green Belt Karate Kimono" }, { "quantity": 30, "name": "Onix Tail" }, { "quantity": 4, "name": "Steelix Tail" }, { "quantity": 20, "name": "Big Hands" }, { "quantity": 200, "name": "Refined Style Point" }] }, { "Item": "Karate Master Outfit", "Habilidade": "Skill 37", "Tempo de espera": "5 Horas", "Materiais": [{ "quantity": 10, "name": "Cloth" }, { "quantity": 1, "name": "Wrestling Mask" }, { "quantity": 1, "name": "Yellow Belt Karate Kimono" }, { "quantity": 7, "name": "Belt Of Champion" }, { "quantity": 10, "name": "Iron Bracelet" }, { "quantity": 80, "name": "Martial Arts Scroll" }, { "quantity": 200, "name": "Refined Style Point" }] }, { "Item": "Street Female Outfit", "Habilidade": "Skill 32", "Tempo de espera": "5 Horas", "Materiais": [{ "quantity": 10, "name": "Cloth" }, { "quantity": 10, "name": "Bandit Scarf" }, { "quantity": 20, "name": "Blue Ball" }, { "quantity": 8, "name": "Ice Bra" }, { "quantity": 10, "name": "Gyarados Tail" }, { "quantity": 40, "name": "Greens" }, { "quantity": 200, "name": "Refined Style Point" }] }, { "Item": "Purple Stripe", "Habilidade": "Skill 22", "Tempo de espera": "9 Minutos", "Materiais": [{ "quantity": 500, "name": "Earth Ball" }, { "quantity": 500, "name": "Bottle Of Poison" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Clown Nose", "Habilidade": "Skill 24", "Tempo de espera": "9 Minutos", "Materiais": [{ "quantity": 5, "name": "Piece Of Diglett" }, { "quantity": 2, "name": "Topknot" }, { "quantity": 5, "name": "Comb" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Red Karate Headband", "Habilidade": "Skill 24", "Tempo de espera": "9 Minutos", "Materiais": [{ "quantity": 2, "name": "Karate Duck" }, { "quantity": 100, "name": "Essence Of Fire" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Yellow Karate Headband", "Habilidade": "Skill 24", "Tempo de espera": "9 Minutos", "Materiais": [{ "quantity": 2, "name": "Karate Duck" }, { "quantity": 100, "name": "Straw" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Black Karate Headband", "Habilidade": "Skill 24", "Tempo de espera": "9 Minutos", "Materiais": [{ "quantity": 2, "name": "Karate Duck" }, { "quantity": 100, "name": "Dark Gem" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Splinter Kimono", "Habilidade": "Skill 20", "Tempo de espera": "8 Minutos", "Materiais": [{ "quantity": 1, "name": "Heart Stone" }, { "quantity": 20, "name": "Rat Tail" }, { "quantity": 30, "name": "Electric Rat Tail" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Clown Mask", "Habilidade": "Skill 24", "Tempo de espera": "10 Minutos", "Materiais": [{ "quantity": 2, "name": "Seal Tail" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Ash Ketchum Cap", "Habilidade": "Skill 30", "Tempo de espera": "10 Minutos", "Materiais": [{ "quantity": 12, "name": "Electric Rat Tail" }, { "quantity": 10, "name": "Cloth" }, { "quantity": 16, "name": "Cute Ball" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Jester Hat", "Habilidade": "Skill 22", "Tempo de espera": "4 Minutos", "Materiais": [{ "quantity": 20, "name": "Cute Ball" }, { "quantity": 2, "name": "Springs" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Angel Halo", "Habilidade": "Skill 30", "Tempo de espera": "25 Minutos", "Materiais": [{ "quantity": 20, "name": "Fur Ball" }, { "quantity": 28, "name": "Topknot" }, { "quantity": 30, "name": "Comb" }, { "quantity": 20, "name": "Cure Flower" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Ice Cream", "Habilidade": "Skill 26", "Tempo de espera": "15 Minutos", "Materiais": [{ "quantity": 7, "name": "Microphone" }, { "quantity": 500, "name": "Eevee Cream" }, { "quantity": 5, "name": "Comb" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Suicide Bomber Costume", "Habilidade": "Skill 28", "Tempo de espera": "15 Minutos", "Materiais": [{ "quantity": 200, "name": "Strange Rock" }, { "quantity": 100, "name": "Hot Fur" }, { "quantity": 500, "name": "Stone Orb" }, { "quantity": 1, "name": "Fire Stone" }, { "quantity": 400, "name": "Refined Style Point" }] }, { "Item": "Yellow Belt Karate Kimono", "Habilidade": "Skill 24", "Tempo de espera": "15 Minutos", "Materiais": [{ "quantity": 2, "name": "Belt Of Champion" }, { "quantity": 7, "name": "Strange Thing" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Green Belt Karate Kimono", "Habilidade": "Skill 24", "Tempo de espera": "15 Minutos", "Materiais": [{ "quantity": 10, "name": "Big Hands" }, { "quantity": 7, "name": "Strange Thing" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Black Belt Karate Kimono", "Habilidade": "Skill 34", "Tempo de espera": "35 Minutos", "Materiais": [{ "quantity": 40, "name": "Strange Thing" }, { "quantity": 20, "name": "Iron Bracelet" }, { "quantity": 30, "name": "Monkey Paw" }, { "quantity": 2, "name": "Water Stone" }, { "quantity": 2, "name": "Punch Stone" }, { "quantity": 200, "name": "Refined Style Point" }] }, { "Item": "Dragon Karate Kimono", "Habilidade": "Skill 34", "Tempo de espera": "35 Minutos", "Materiais": [{ "quantity": 40, "name": "Strange Thing" }, { "quantity": 10, "name": "Dragon Tooth" }, { "quantity": 2, "name": "Water Stone" }, { "quantity": 2, "name": "Punch Stone" }, { "quantity": 200, "name": "Refined Style Point" }] }, { "Item": "Pimp Hat", "Habilidade": "Skill 22", "Tempo de espera": "8 Minutos", "Materiais": [{ "quantity": 8, "name": "Farfetch'D Stick" }, { "quantity": 9, "name": "Cloth" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Pumpkin Head", "Habilidade": "Skill 20", "Tempo de espera": "10 Minutos", "Materiais": [{ "quantity": 15, "name": "Ghost Skull" }, { "quantity": 100, "name": "Sandbag" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Pumpkin Pack", "Habilidade": "Skill 26", "Tempo de espera": "13 Minutos", "Materiais": [{ "quantity": 40, "name": "Ghost Skull" }, { "quantity": 2, "name": "Creepy Eye" }, { "quantity": 50, "name": "Bone" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Reaper Costume", "Habilidade": "Skill 37", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 20, "name": "Creepy Eye" }, { "quantity": 250, "name": "Tribe Mark" }, { "quantity": 5, "name": "Dark Moon" }, { "quantity": 400, "name": "Refined Style Point" }] }, { "Item": "Nurse Costume", "Habilidade": "Skill 28", "Tempo de espera": "12 Minutos", "Materiais": [{ "quantity": 14, "name": "Mediling" }, { "quantity": 10, "name": "Cure Flower" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Witch Costume", "Habilidade": "Skill 30", "Tempo de espera": "12 Minutos", "Materiais": [{ "quantity": 1, "name": "Eggshell" }, { "quantity": 2, "name": "Ice Bra" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Black Cape", "Habilidade": "Skill 37", "Tempo de espera": "20 Minutos", "Materiais": [{ "quantity": 3, "name": "Belt Of Champion" }, { "quantity": 3, "name": "Black Dye" }, { "quantity": 45, "name": "Kick Machine" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Red Taek Headband", "Habilidade": "Skill 37", "Tempo de espera": "20 Minutos", "Materiais": [{ "quantity": 10, "name": "Kick Machine" }, { "quantity": 1000, "name": "Band Aid" }, { "quantity": 40, "name": "Martial Arts Scroll" }, { "quantity": 3, "name": "Red Dye" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Blue Taek Headband", "Habilidade": "Skill 37", "Tempo de espera": "20 Minutos", "Materiais": [{ "quantity": 10, "name": "Kick Machine" }, { "quantity": 1000, "name": "Band Aid" }, { "quantity": 40, "name": "Martial Arts Scroll" }, { "quantity": 3, "name": "Blue Dye" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Red Headband", "Habilidade": "Skill 37", "Tempo de espera": "20 Minutos", "Materiais": [{ "quantity": 10, "name": "Punch Machine" }, { "quantity": 1000, "name": "Band Aid" }, { "quantity": 40, "name": "Martial Arts Scroll" }, { "quantity": 3, "name": "Red Dye" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "White Headband", "Habilidade": "Skill 37", "Tempo de espera": "20 Minutos", "Materiais": [{ "quantity": 30, "name": "Punch Machine" }, { "quantity": 1000, "name": "Band Aid" }, { "quantity": 40, "name": "Martial Arts Scroll" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Rustic Chair", "Habilidade": "Skill 20", "Tempo de espera": "5 Minutos", "Materiais": [{ "quantity": 60, "name": "Straw" }, { "quantity": 20, "name": "Log" }] }, { "Item": "Strong Wooden Table", "Habilidade": "Skill 22", "Tempo de espera": "15 Minutos", "Materiais": [{ "quantity": 100, "name": "Straw" }, { "quantity": 1, "name": "Oak Table" }, { "quantity": 40, "name": "Log" }] }, { "Item": "Jungle Balcony", "Habilidade": "Skill 24", "Tempo de espera": "15 Minutos", "Materiais": [{ "quantity": 5, "name": "Leaves" }, { "quantity": 1, "name": "Bag Of Pollen" }, { "quantity": 1, "name": "Wooden Balcony" }, { "quantity": 60, "name": "Log" }] }, { "Item": "Green Bed", "Habilidade": "Skill 30", "Tempo de espera": "28 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Green Tapestry" }, { "quantity": 4, "name": "Planks" }] }, { "Item": "Blue Bed", "Habilidade": "Skill 30", "Tempo de espera": "28 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Blue Tapestry" }, { "quantity": 4, "name": "Planks" }] }, { "Item": "Purple Bed", "Habilidade": "Skill 30", "Tempo de espera": "28 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Purple Tapestry" }, { "quantity": 4, "name": "Planks" }] }, { "Item": "Ping Pong Table", "Habilidade": "Skill 26", "Tempo de espera": "15 Minutos", "Materiais": [{ "quantity": 6, "name": "Blue Ball" }, { "quantity": 6, "name": "Planks" }] }, { "Item": "Bellossom Big Figure", "Habilidade": "Skill 29", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 2, "name": "Strange Flower" }, { "quantity": 10, "name": "Leaves" }, { "quantity": 2, "name": "Planks" }] }, { "Item": "Rhyhorn Big Figure", "Habilidade": "Skill 29", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 1, "name": "Horn Drill" }, { "quantity": 5, "name": "Horn" }, { "quantity": 2, "name": "Planks" }] }, { "Item": "Sandshrew Big Figure", "Habilidade": "Skill 29", "Tempo de espera": "1 Hora", "Materiais": [{ "quantity": 2, "name": "Armadillo Claw" }, { "quantity": 2, "name": "Planks" }] }, { "Item": "Mist Tapestry", "Habilidade": "Skill 37", "Tempo de espera": "40 Minutos", "Materiais": [{ "quantity": 1, "name": "Dark Purple Tapestry" }, { "quantity": 1, "name": "Blue Ball" }, { "quantity": 100, "name": "Water Gem" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Salmon Tapestry", "Habilidade": "Skill 37", "Tempo de espera": "40 Minutos", "Materiais": [{ "quantity": 1, "name": "Pink Tapestry" }, { "quantity": 1, "name": "Dark Purple Tapestry" }, { "quantity": 30, "name": "Magikarp Fin" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Chameleon Tapestry", "Habilidade": "Skill 37", "Tempo de espera": "40 Minutos", "Materiais": [{ "quantity": 1, "name": "White Tapestry" }, { "quantity": 2, "name": "Fire Tail" }, { "quantity": 2, "name": "Pot Of Lava" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Workshop C", "Habilidade": "Skill 40", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 4, "name": "Diamonds" }] }, { "Item": "Workshop C (Portátil)", "Habilidade": "Skill 40", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 4, "name": "Diamonds" }] }],
     "rankC": [{ "Item": "Silk", "Habilidade": "Skill 40", "Tempo de espera": "5 Minutos", "Materiais": [{ "quantity": 4, "name": "Cloth" }, { "quantity": 1, "name": "Spider Leg" }, { "quantity": 1, "name": "Bug Venom" }, { "quantity": 1, "name": "Big Bug Gosme" }] }, { "Item": "Black Dye", "Habilidade": "Skill 44", "Tempo de espera": "1 Minuto", "Materiais": [{ "quantity": 100, "name": "Dark Gem" }, { "quantity": 7, "name": "Black Fins" }] }, { "Item": "Blue Dye", "Habilidade": "Skill 44", "Tempo de espera": "1 Minuto", "Materiais": [{ "quantity": 200, "name": "Water Gem" }, { "quantity": 5, "name": "Insect Claw" }] }, { "Item": "Red Dye", "Habilidade": "Skill 44", "Tempo de espera": "1 Minuto", "Materiais": [{ "quantity": 100, "name": "Rubber Ball" }, { "quantity": 6, "name": "Lobster Claw" }] }, { "Item": "Pink Dye", "Habilidade": "Skill 44", "Tempo de espera": "1 Minuto", "Materiais": [{ "quantity": 8, "name": "Sandbag" }, { "quantity": 6, "name": "Topknot" }] }, { "Item": "Green Dye", "Habilidade": "Skill 44", "Tempo de espera": "1 Minuto", "Materiais": [{ "quantity": 100, "name": "Seed" }, { "quantity": 7, "name": "Bulb" }] }, { "Item": "Yellow Dye", "Habilidade": "Skill 44", "Tempo de espera": "1 Minuto", "Materiais": [{ "quantity": 200, "name": "Straw" }, { "quantity": 6, "name": "Armadillo Claw" }] }, { "Item": "Average XP Banner", "Habilidade": "Skill 40", "Tempo de espera": "1 Hora 30 Minutos", "Materiais": [{ "quantity": 6, "name": "Pink Tissue" }, { "quantity": 4, "name": "Refined Style Point" }] }, { "Item": "Pikachu Female Outfit", "Habilidade": "Skill 52", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 1, "name": "Ash Ketchum Cap" }, { "quantity": 1, "name": "Jester Hat" }, { "quantity": 400, "name": "Electric Rat Tail" }, { "quantity": 3, "name": "Silk" }, { "quantity": 6, "name": "Thunder Stone" }, { "quantity": 600, "name": "Refined Style Point" }] }, { "Item": "Azumarill Female Outfit", "Habilidade": "Skill 52", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 30, "name": "Blue Ball" }, { "quantity": 200, "name": "Cute Ball" }, { "quantity": 200, "name": "Cow Tail" }, { "quantity": 500, "name": "Water Pendant" }, { "quantity": 200, "name": "Fur Balls" }, { "quantity": 2, "name": "Water Stone" }, { "quantity": 600, "name": "Refined Style Point" }] }, { "Item": "Meowth Female Outfit", "Habilidade": "Skill 52", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 5, "name": "Luck Medallion" }, { "quantity": 100, "name": "Wool Ball" }, { "quantity": 20, "name": "Cat Ear" }, { "quantity": 200, "name": "Tribe Mark" }, { "quantity": 200, "name": "Cow Tail" }, { "quantity": 4, "name": "Heart Stone" }, { "quantity": 600, "name": "Refined Style Point" }] }, { "Item": "Venusaur Male Outfit", "Habilidade": "Skill 52", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 10, "name": "Red Cap" }, { "quantity": 200, "name": "Bag Of Pollen" }, { "quantity": 200, "name": "Bulb" }, { "quantity": 250, "name": "Poisonous Tail" }, { "quantity": 1, "name": "Leaf Stone" }, { "quantity": 1, "name": "Venom Stone" }, { "quantity": 600, "name": "Refined Style Point" }] }, { "Item": "Blastoise Male Outfit", "Habilidade": "Skill 52", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 500, "name": "Water Pendant" }, { "quantity": 200, "name": "Squirtle Hull" }, { "quantity": 25, "name": "Seahorse Tail" }, { "quantity": 200, "name": "Red Scale" }, { "quantity": 4, "name": "Water Stone" }, { "quantity": 600, "name": "Refined Style Point" }] }, { "Item": "Charizard Male Outfit", "Habilidade": "Skill 52", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 10, "name": "Ninja Mask" }, { "quantity": 250, "name": "Pot Of Lava" }, { "quantity": 20, "name": "Dragon Tooth" }, { "quantity": 200, "name": "Fire Feather" }, { "quantity": 1, "name": "Fire Stone" }, { "quantity": 1, "name": "Feather Stone" }, { "quantity": 600, "name": "Refined Style Point" }] }, { "Item": "Red Cape", "Habilidade": "Skill 44", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 65, "name": "Stone Orb" }, { "quantity": 100, "name": "Small Stone" }, { "quantity": 100, "name": "Water Gem" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Party Cap", "Habilidade": "Skill 42", "Tempo de espera": "3 Horas", "Materiais": [{ "quantity": 15, "name": "Stone Orb" }, { "quantity": 50, "name": "Small Stone" }, { "quantity": 50, "name": "Water Gem" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Star Glasses", "Habilidade": "Skill 44", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 1, "name": "Omanyte Toy" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Dragon Tattoo", "Habilidade": "Skill 48", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 3, "name": "Belt Of Champion" }, { "quantity": 10, "name": "Big Hands" }, { "quantity": 20, "name": "Samurai Hair" }, { "quantity": 1, "name": "Mini Wings" }, { "quantity": 4, "name": "Dragon Tail" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Green Scarf", "Habilidade": "Skill 50", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 5, "name": "Giant Piece Of Fur" }, { "quantity": 7, "name": "Fur" }, { "quantity": 24, "name": "Leaves" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Blue Scarf", "Habilidade": "Skill 50", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 5, "name": "Giant Piece Of Fur" }, { "quantity": 7, "name": "Fur" }, { "quantity": 20, "name": "Water Pendant" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Purple Bandana", "Habilidade": "Skill 46", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 6, "name": "Traces Of Ghost" }, { "quantity": 7, "name": "Miss Trace" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Black Bandana", "Habilidade": "Skill 46", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 6, "name": "Traces Of Ghost" }, { "quantity": 20, "name": "Doll Star" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Green Bandana", "Habilidade": "Skill 46", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 6, "name": "Traces Of Ghost" }, { "quantity": 20, "name": "Ghost Skull" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Dj Cap", "Habilidade": "Skill 48", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 7, "name": "Sticky Hand" }, { "quantity": 5, "name": "Gosme" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Green Apron", "Habilidade": "Skill 45", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 6, "name": "Mimic Clothes" }, { "quantity": 20, "name": "Future Orb" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Bandit Mask", "Habilidade": "Skill 52", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 2, "name": "Electric Tail" }, { "quantity": 15, "name": "Cloth" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Red Stripes", "Habilidade": "Skill 46", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 6, "name": "Horn Drill" }, { "quantity": 8, "name": "Horn" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Pearl Necklace", "Habilidade": "Skill 48", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 10, "name": "Giant Fin" }, { "quantity": 1, "name": "Ski Poles" }, { "quantity": 20, "name": "Water Pendant" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Pink Shell", "Habilidade": "Skill 46", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 1, "name": "Eggshell" }, { "quantity": 400, "name": "Water Gem" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Yellow Shell", "Habilidade": "Skill 46", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 1, "name": "Eggshell" }, { "quantity": 400, "name": "Snowball" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Dark Pendant", "Habilidade": "Skill 50", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 6, "name": "Giant Fin" }, { "quantity": 1, "name": "Snow Skis" }, { "quantity": 1, "name": "Goggles" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Bear Cap", "Habilidade": "Skill 57", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 20, "name": "Bear Paw" }, { "quantity": 20, "name": "Strange Ball" }, { "quantity": 40, "name": "pawn" }, { "quantity": 30, "name": "Eruption Ears" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Polar Bear Cap", "Habilidade": "Skill 57", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 20, "name": "Bear Paw" }, { "quantity": 10, "name": "Ice Blocks" }, { "quantity": 50, "name": "Seal Mustache" }, { "quantity": 12, "name": "Ice Orb" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Yellow Ribbon", "Habilidade": "Skill 50", "Tempo de espera": "3 Horas", "Materiais": [{ "quantity": 2, "name": "Pinsir Horn" }, { "quantity": 14, "name": "Pot Of Moss Bug" }, { "quantity": 2, "name": "Refined Style Point" }] }, { "Item": "Purple Scarf", "Habilidade": "Skill 42", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 9, "name": "Colored Feather" }, { "quantity": 10, "name": "Male Ear" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Green Scarf", "Habilidade": "Skill 42", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 9, "name": "Colored Feather" }, { "quantity": 12, "name": "Greens" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Blue Scarf", "Habilidade": "Skill 42", "Tempo de espera": "12 Horas", "Materiais": [{ "quantity": 9, "name": "Colored Feather" }, { "quantity": 10, "name": "Female Ear" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Red Dragon Scarf", "Habilidade": "Skill 57", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 20, "name": "Crimson Feather" }, { "quantity": 20, "name": "Cloud" }, { "quantity": 2, "name": "Dragon Tooth" }, { "quantity": 2, "name": "Mini Wings" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Green Dragon Scarf", "Habilidade": "Skill 57", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 20, "name": "Crimson Feather" }, { "quantity": 20, "name": "Cloud" }, { "quantity": 2, "name": "Dragon Tooth" }, { "quantity": 45, "name": "Sand Tail" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Yellow Dragon Scarf", "Habilidade": "Skill 57", "Tempo de espera": "2 Dias", "Materiais": [{ "quantity": 20, "name": "Crimson Feather" }, { "quantity": 20, "name": "Cloud" }, { "quantity": 2, "name": "Dragon Tooth" }, { "quantity": 14, "name": "Dragon Tail" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Red Postman Bag", "Habilidade": "Skill 57", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 30, "name": "Cloth" }, { "quantity": 1000, "name": "Dragon Scale" }, { "quantity": 3, "name": "Red Dye" }, { "quantity": 2, "name": "Mini Wings" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Blue Postman Bag", "Habilidade": "Skill 57", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 30, "name": "Cloth" }, { "quantity": 1000, "name": "Dragon Scale" }, { "quantity": 3, "name": "Blue Dye" }, { "quantity": 32, "name": "Seahorse Tail" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Gray Postman Bag", "Habilidade": "Skill 57", "Tempo de espera": "1 Dia", "Materiais": [{ "quantity": 30, "name": "Cloth" }, { "quantity": 1000, "name": "Dragon Scale" }, { "quantity": 3, "name": "Black Dye" }, { "quantity": 50, "name": "Cloud" }, { "quantity": 80, "name": "Refined Style Point" }] }, { "Item": "Wooden Poké Ball Table", "Habilidade": "Skill 42", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 1, "name": "Wooden Table" }, { "quantity": 1, "name": "Farfetch'd Stick" }, { "quantity": 100, "name": "Feather" }, { "quantity": 8, "name": "Planks" }] }, { "Item": "Grey Poké Ball Table", "Habilidade": "Skill 42", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 1, "name": "White Table" }, { "quantity": 250, "name": "Empty Poké Ball" }, { "quantity": 8, "name": "Planks" }] }, { "Item": "Poké Ball Table", "Habilidade": "Skill 45", "Tempo de espera": "2 Horas e 16 Minutos", "Materiais": [{ "quantity": 1, "name": "White Table" }, { "quantity": 100, "name": "Empty Poké Ball" }, { "quantity": 25, "name": "Empty Great Ball" }, { "quantity": 10, "name": "Empty Super Ball" }, { "quantity": 4, "name": "Empty Ultra Ball" }, { "quantity": 10, "name": "Planks" }] }, { "Item": "Bubble Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 5, "name": "Tentacle" }, { "quantity": 1, "name": "Water Stone" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Thunder Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Raibolt Tapestry" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Flame Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Volcanic Tapestry" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Psychic Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Psycraft Tapestry" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Rock Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Orebound Tapestry" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Sea Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Seavell Tapestry" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Black/White Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Malefic Tapestry" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Poké Ball Bed", "Habilidade": "Skill 49", "Tempo de espera": "1 Hora e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "White Bed" }, { "quantity": 1, "name": "Gardestrike Tapestry" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Snooker Table", "Habilidade": "Skill 44", "Tempo de espera": "4 Horas e 30 Minutos", "Materiais": [{ "quantity": 4, "name": "Blue Ball" }, { "quantity": 2, "name": "Cow Tail" }, { "quantity": 4, "name": "Strange Ball" }, { "quantity": 4, "name": "Cute Ball" }, { "quantity": 4, "name": "Wool Ball" }, { "quantity": 16, "name": "Planks" }] }, { "Item": "Red Snooker Table", "Habilidade": "Skill 48", "Tempo de espera": "5 Horas e 30 Minutos", "Materiais": [{ "quantity": 1, "name": "Snooker Table" }, { "quantity": 4, "name": "Red Dye" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Snorlax Big Figure", "Habilidade": "Skill 52", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 1, "name": "Heart Stone" }, { "quantity": 200, "name": "Bitten Apple" }, { "quantity": 40, "name": "Planks" }] }, { "Item": "Growlithe Big Figure", "Habilidade": "Skill 51", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 10, "name": "Giant Piece Of Fur" }, { "quantity": 100, "name": "Fur" }, { "quantity": 20, "name": "Planks" }] }, { "Item": "Houndour Big Figure", "Habilidade": "Skill 51", "Tempo de espera": "2 Horas", "Materiais": [{ "quantity": 7, "name": "Strange Bone" }, { "quantity": 100, "name": "Pot Of Lava" }, { "quantity": 20, "name": "Planks" }] }, { "Item": "Psyduck Big Figure", "Habilidade": "Skill 51", "Tempo de espera": "6 Horas", "Materiais": [{ "quantity": 200, "name": "Water Pendant" }, { "quantity": 5, "name": "Psyduck Mug" }, { "quantity": 20, "name": "Planks" }] }, { "Item": "Sunflora Big Figure", "Habilidade": "Skill 51", "Tempo de espera": "6 Horas", "Materiais": [{ "quantity": 10, "name": "Helicopter Leave" }, { "quantity": 220, "name": "Leaves" }, { "quantity": 20, "name": "Planks" }] }, { "Item": "Unpacked Unown Toy", "Habilidade": "Skill 47", "Tempo de espera": "6 Horas", "Materiais": [{ "quantity": 1, "name": "Strange Tail" }, { "quantity": 20, "name": "Future Orb" }, { "quantity": 2, "name": "Pawn" }, { "quantity": 1, "name": "Linearly Guided Hypnosis" }, { "quantity": 8, "name": "Refined Style Point" }] }, { "Item": "Master Tapestry", "Habilidade": "Skill 52", "Tempo de espera": "4 Horas e 54 Minutos", "Materiais": [{ "quantity": 1, "name": "Silk" }, { "quantity": 1, "name": "White Tapestry" }, { "quantity": 15, "name": "Empty Ultra Ball" }, { "quantity": 3, "name": "Blue dye" }, { "quantity": 40, "name": "Refined Style Point" }] }, { "Item": "Red Master Tapestry", "Habilidade": "Skill 52", "Tempo de espera": "4 Horas e 54 Minutos", "Materiais": [{ "quantity": 1, "name": "Silk" }, { "quantity": 1, "name": "White Tapestry" }, { "quantity": 15, "name": "Empty Ultra Ball" }, { "quantity": 3, "name": "Red dye" }, { "quantity": 40, "name": "Refined Style Point" }] }, { "Item": "Misdreavus Tapestry", "Habilidade": "Skill 46", "Tempo de espera": "3 Horas", "Materiais": [{ "quantity": 1, "name": "Silk" }, { "quantity": 1, "name": "White Tapestry" }, { "quantity": 1, "name": "Blue dye" }, { "quantity": 3, "name": "Miss Traces" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Dragonite Tapestry", "Habilidade": "Skill 46", "Tempo de espera": "3 Horas", "Materiais": [{ "quantity": 1, "name": "Silk" }, { "quantity": 1, "name": "White Tapestry" }, { "quantity": 1, "name": "Black dye" }, { "quantity": 2, "name": "Dragon Tail" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Golem Tapestry", "Habilidade": "Skill 46", "Tempo de espera": "3 Horas", "Materiais": [{ "quantity": 1, "name": "Silk" }, { "quantity": 1, "name": "White Tapestry" }, { "quantity": 1, "name": "Black dye" }, { "quantity": 6, "name": "Strange Rock" }, { "quantity": 20, "name": "Refined Style Point" }] }, { "Item": "Workshop B", "Habilidade": "Skill 60", "Tempo de espera": "7 Dias", "Materiais": [{ "quantity": 15, "name": "Diamonds." }] }, { "Item": "Workshop B (Portátil)", "Habilidade": "Skill 60", "Tempo de espera": "7 Dias", "Materiais": [{ "quantity": 15, "name": "Diamonds." }] }],
