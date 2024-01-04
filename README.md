@@ -10,7 +10,7 @@ yarn dev
 pnpm dev
 ```
 
-## Features
-- Rank E-A Items
-- Drop Itens
-- Pokemons Linked
+> Features
+> - Rank E--S Items
+> - Drop Itens
+> - Pokemons Linked
