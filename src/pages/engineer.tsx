@@ -12,8 +12,6 @@ export default function Estilista () {
           </p>
         <h1>Engineer</h1>
           </div>
-          <Main data={data}/>
-
         </main>
     )
 }
