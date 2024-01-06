@@ -2,6 +2,7 @@ import Head from 'next/head'
 import data from '../json/items/items.json'
 import { Main } from '@/components/main'
 import { useState } from 'react'
+import Image from 'next/image';
 
 interface Pokemon {
   title: string;
@@ -34,7 +35,7 @@ export default function Home({data}: {data: Item[]}) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className='flex flex-col gap-8 border-2 border-black justify-center'>
+      <main className='flex flex-col gap-8 justify-center'>
         <input className='w-2/4 self-center mt-20 p-2 border border-gray-300 rounded focus:outline-none'
           placeholder='Search Items'
           type="text"
@@ -51,9 +52,9 @@ export default function Home({data}: {data: Item[]}) {
               <ul className='flex flex-row gap-4 items-baseline'>
                 {item.pokemons && Array.isArray(item.pokemons) ? (
                   item.pokemons.map(pokemon => (
-                    <div className='flex flex-col items-center'>
-                    <li><img width={32} height={32} src={`https://wiki.pokexgames.com${pokemon.src}`} alt="" /></li>
-                    <li key={pokemon.title}>{pokemon.title}</li>
+                    <div key={pokemon.title} className='flex flex-col items-center'>
+                    <li><Image width={20} height={20} src={`https://wiki.pokexgames.com${pokemon.src}`} alt="" /></li>
+                    <li >{pokemon.title}</li>
                     </div>
                   ))
                 ) : (
