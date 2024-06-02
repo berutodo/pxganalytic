@@ -47,9 +47,9 @@ export default function Drops({newData, itemsData}: {newData: PokemonData[], ite
 
     return (
         <div>
-        <div className="flex p-20 flex-wrap w-4/5 mx-auto justify-center gap-4 font-WorkSans">
+        <div className="flex p-20 flex-wrap md:w-4/5 mx-auto justify-center gap-4 font-WorkSans">
         {newData.map(pokemon => 
-          <div key={pokemon.name} className="flex flex-col w-80 items-center justify-center gap-14 rounded-md border-2 border-black p-6">
+          <div key={pokemon.name} className="flex flex-col w-80 items-center justify-center gap-4 rounded-md border-2 border-black p-6">
           <div className='relative w-[96px] h-[96px]'><Image fill src={pokemon.src} alt={pokemon.name} /></div>
           <div className="w-full">
           {pokemon.drops.map(drop => {
@@ -59,13 +59,13 @@ export default function Drops({newData, itemsData}: {newData: PokemonData[], ite
             return (
               <div key={drop.name} className="flex p-2 items-center justify-between border-b-2 border-gray-300">
                 <div className="flex items-center gap-2">
-                  <div className="relative w-4 h-5 flex justify-center"><Image fill={true} src={src} alt={drop.name} /></div>
+                  <div className="relative w-5 h-5 flex justify-center"><Image fill={true} src={src} alt={drop.name} /></div>
                   <div>
-                    <h1>{drop.name}</h1>
+                    <h1 className='text-sm md:text-base'>{drop.name}</h1>
                   </div>
                 </div>
                 <div className="flex">
-                  {drop.rate === 0 ? <h1 className="font-medium text-orange-500">RARE</h1> : drop.rate + " %"}
+                  {drop.rate === 0 ? <h1 className="font-bold text-orange-500">RARE</h1> : drop.rate + " %"}
                 </div>
               </div>
             );
