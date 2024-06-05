@@ -1,6 +1,6 @@
 import { createClient } from '@supabase/supabase-js'
 import Image from 'next/image';
-
+import items from "@/json/items/updated_items.json"
 interface PokemonData {
   name: string,
   src: string,
@@ -54,12 +54,14 @@ export default function Drops({newData, itemsData}: {newData: PokemonData[], ite
           <div className="w-full">
           {pokemon.drops.map(drop => {
             const image = itemsData.find(item => item.name === drop.name)
+            const width = image?.width
+            const height = image?.height
             const src = image ? image.src : "";
 
             return (
               <div key={drop.name} className="flex p-2 items-center justify-between border-b-2 border-gray-300">
                 <div className="flex items-center gap-2">
-                  <div className="relative w-5 h-5 flex justify-center"><Image fill={true} src={src} alt={drop.name} /></div>
+                  <div className="flex justify-center"><Image width={width} height={height} src={src} alt={drop.name} /></div>
                   <div>
                     <h1 className='text-sm md:text-base'>{drop.name}</h1>
                   </div>
