@@ -1,6 +1,6 @@
 import { createClient } from '@supabase/supabase-js'
 import Image from 'next/image';
-import items from "@/json/items/updated_items.json"
+
 interface PokemonData {
   name: string,
   src: string,
@@ -14,7 +14,9 @@ interface Drops {
 
 interface Item {
   name: string,
-  src: string
+  src: string,
+  width: number,
+  height: number
 }
 
 export const getStaticProps = async () => {
@@ -32,7 +34,6 @@ export const getStaticProps = async () => {
       console.error('Error fetching items data:', itemsError.message);
   }
 
-  
   const itemsData = itemsDataResponse
   const newData = data.map(e => JSON.parse(e.drops));
   return {
