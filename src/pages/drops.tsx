@@ -5,7 +5,7 @@ interface PokemonData {
   name: string,
   src: string,
   drops: Drops[]
-
+  types: string[]
 }
 interface Drops {
   name: string,
@@ -17,6 +17,9 @@ interface Item {
   src: string,
   width: number,
   height: number
+}
+interface Colors {
+  [key: string]: string;
 }
 
 export const getStaticProps = async () => {
@@ -35,7 +38,7 @@ export const getStaticProps = async () => {
   }
 
   const itemsData = itemsDataResponse
-  const newData = data.map(e => JSON.parse(e.drops));
+  const newData = data;
   return {
       props: {
           newData,
@@ -45,13 +48,48 @@ export const getStaticProps = async () => {
 };
 
 export default function Drops({newData, itemsData}: {newData: PokemonData[], itemsData: Item[]}){
-
+      const colors: Colors = {
+        'poison': "#ab6bc9",
+        'normal': "#9198a1",
+        'fighting': "#cf4169",
+        'flying': "#8fa9dc",
+        'ground': "#d97647",
+        'rock': "#c6b68b",
+        'bug': "#90c02d",
+        'ghost': "#5368ac",
+        'steel': "#5a8ea1",
+        'fire': "#ff9c54",
+        'water': "#4c90d4",
+        'grass': "#63bb5b",
+        'electric': "#f3d23b",
+        'psychic': "#f97077",
+        'ice': "#74cec0",
+        'dragon': "#0b6dc5",
+        'dark': "#5a5267",
+        'fairy': "#ed8fe7"
+    };
     return (
         <div>
         <div className="flex p-20 flex-wrap md:w-4/5 mx-auto justify-center gap-4 font-WorkSans">
         {newData.map(pokemon => 
-          <div key={pokemon.name} className="flex flex-col w-80 items-center justify-center gap-4 rounded-md border-2 border-black p-6">
+          <div key={pokemon.name} className="flex flex-col w-80 items-center justify-between rounded-md border-2 border-black p-4">
+            <div className='w-full flex flex-col items-center'>
+            <div className='flex w-full p-2 bg-cyan-50 justify-between'>
+              <h1>{pokemon.name}</h1>
+              <div className='flex gap-2'>
+              {pokemon.types.map(e => {
+                const cor = colors[e]
+                return(
+                  <div style={{ backgroundColor: cor }} className="rounded-3xl p-1">
+                    <Image alt={e} width={16} height={16} src={`/pokemonTypes/${e}.svg`} />
+                  </div>
+                )
+              })}
+              </div>
+            </div>
           <div className='relative w-[96px] h-[96px]'><Image fill src={pokemon.src} alt={pokemon.name} /></div>
+            </div>
+            
           <div className="w-full">
           {pokemon.drops.map(drop => {
             const image = itemsData.find(item => item.name === drop.name)
