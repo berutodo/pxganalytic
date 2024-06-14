@@ -80,7 +80,7 @@ export default function Drops({newData, itemsData}: {newData: PokemonData[], ite
               {pokemon.types.map(e => {
                 const cor = colors[e]
                 return(
-                  <div style={{ backgroundColor: cor }} className="rounded-3xl p-1">
+                  <div key={e} style={{ backgroundColor: cor }} className="rounded-3xl p-1">
                     <Image alt={e} width={16} height={16} src={`/pokemonTypes/${e}.svg`} />
                   </div>
                 )
