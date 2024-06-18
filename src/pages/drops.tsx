@@ -38,16 +38,15 @@ export const getStaticProps = async () => {
   }
 
   const itemsData = itemsDataResponse
-  const newData = data;
   return {
       props: {
-          newData,
+          data,
           itemsData,
       },
   };
 };
 
-export default function Drops({newData, itemsData}: {newData: PokemonData[], itemsData: Item[]}){
+export default function Drops({data, itemsData}: {data: PokemonData[], itemsData: Item[]}){
       const colors: Colors = {
         'poison': "#ab6bc9",
         'normal': "#9198a1",
@@ -71,7 +70,7 @@ export default function Drops({newData, itemsData}: {newData: PokemonData[], ite
     return (
         <div>
         <div className="flex p-20 flex-wrap md:w-4/5 mx-auto justify-center gap-4 font-WorkSans">
-        {newData.map(pokemon => 
+        {data.map(pokemon => 
           <div key={pokemon.name} className="flex flex-col w-80 items-center justify-between rounded-md border-2 border-black p-4">
             <div className='w-full flex flex-col items-center'>
             <div className='flex w-full p-2 bg-cyan-50 justify-between'>
