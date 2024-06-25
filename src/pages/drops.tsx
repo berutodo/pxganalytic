@@ -71,7 +71,7 @@ export default function Drops({data, itemsData}: {data: PokemonData[], itemsData
         <div>
         <div className="flex p-20 flex-wrap md:w-4/5 mx-auto justify-center gap-4 font-WorkSans">
         {data.map(pokemon => 
-          <div key={pokemon.name} className="flex flex-col w-80 items-center justify-between rounded-md border-2 border-black p-4">
+          <div key={pokemon.name} className="flex flex-col md:w-80 items-center justify-between rounded-md border-2 border-black p-4">
             <div className='w-full flex flex-col items-center'>
             <div className='flex w-full p-2 bg-cyan-50 justify-between'>
               <h1>{pokemon.name}</h1>
@@ -79,7 +79,7 @@ export default function Drops({data, itemsData}: {data: PokemonData[], itemsData
               {pokemon.types.map(e => {
                 const cor = colors[e]
                 return(
-                  <div key={e} style={{ backgroundColor: cor }} className="rounded-3xl p-1">
+                  <div key={e} style={{ backgroundColor: cor }} className="rounded-3xl p-1 h-fit">
                     <Image alt={e} width={16} height={16} src={`/pokemonTypes/${e}.svg`} />
                   </div>
                 )
@@ -99,13 +99,13 @@ export default function Drops({data, itemsData}: {data: PokemonData[], itemsData
             return (
               <div key={drop.name} className="flex p-2 items-center justify-between border-b-2 border-gray-300">
                 <div className="flex items-center gap-2">
-                  <div className="flex justify-center"><Image width={width} height={height} src={src} alt={drop.name} /></div>
+                  <div className="flex w-8 justify-center"><Image width={width} height={height} src={src} alt={drop.name} /></div>
                   <div>
                     <h1 className='text-sm md:text-base'>{drop.name}</h1>
                   </div>
                 </div>
                 <div className="flex">
-                  {drop.rate === 0 ? <h1 className="font-bold text-orange-500">RARE</h1> : drop.rate + " %"}
+                  {drop.rate === 0 ? <h1 className="font-bold text-orange-500">RARE</h1> : <h1>{drop.rate + "%"}</h1>}
                 </div>
               </div>
             );
